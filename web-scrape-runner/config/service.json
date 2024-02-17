@@ -1,0 +1,6 @@
+{
+    "get-site-map" : "http://localhost:8001/dws/get_site_map",
+    "get-html-dumps" : "http://localhost:8001/dws/get_html_dumps",
+    "classify-dump" : "http://localhost:8001/dws/classification",
+    "generate-and-insert" : "http://localhost:8001/dws/insert_documents"
+}

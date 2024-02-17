@@ -1,0 +1,214 @@
+ind mortgage : mortgage loan|ind mortgage|ib mortgage
+ind mobile banking : ind mobile banking|mobile banking|ib mobile banking
+ind-sme ease : ind sme ease|ind-sme ease|sme ease
+capital gains : capital gains|ltcg|stcg
+press releases : pr|press releases|press release
+neft : neft
+credit cards : cc|credit cards|credit card
+board of directors : board of directors|board members
+statutory central auditors :sca|statutory central auditors
+complete health care insurance : chci|complete health care insurance|health care insurance
+ib kishore – savings bank account for minors : ib kishore – savings bank account minors|ib kishore|ib kishore loan|kishore loan|savings bank account minors|sbafm|minors account
+block lost atm card : block lost atm card|block card|atm card block|card blockage|blockage of atm card
+deposit rates : deposit rates|deposit rate
+ib golden ager – term deposit product for super senior citizens : ib golden ager|golden ager product|ib golden ager product|golden ager
+merchant upi qr code : merchant upi qr code|upi merchant qr code|upi transaction code for merchants|upi vendor qr code|upi seller qr code
+policies : insurance|policy|insurance policy
+ib home improve : ib home improve|home improve
+ind-sdsm (ind-subordinated debt for stressed msme) : ind-sdsm |ind-subordinated debt for stressed msme
+external sites :external sites 
+ind non-callable deposit : ind non-callable deposit|non-callable deposit|ib non-callable deposit|ind non-callable deposits
+derivatives : derivative instrument|differential|derived function|first derivative|derivative|differential coefficient
+ind micro food processing enterprises- (pmfme) :pmfme|ind micro food processing enterprises|ib micro food processing enterprises
+“ind corp sb – elite” payroll package scheme for salaried class  with bundled group personal accidental insurance (pai) :ind corp sb – elite|group personal accidental insurance|group pai
+customer on-boarding using tab : customer on-boarding using tab|customer on-boarding using tab
+applications supported by blocked amount (asba) : asba|applications supported by blocked amount
+application downloads : application downloads|downloads applications
+ind super 400 days : ind super 400 days|ib super 400 days
+executive director’s profile : executive director’s profile|director’s profile
+shg – nirmal : shg – nirmal
+general managers : general managers|gm
+foreign branches : foreign branches|foreign branch
+cms plus : cms plus
+ind msme vehicle : ind msme vehicle|msme vehicle|transport|truck|lorry|commercial vehicle
+mact sb : mact sb|mact saving bank
+annual general meetings and extraordinary general meetings : annual general meetings and extraordinary general meetings|agm and egm|annual general meetings|extraordinary general meetings
+e payment of indirect taxes :e payment of indirect taxes| payment of indirect taxes
+amalgamation : merger|uniting|amalgamation
+ib home loan plus : ib home loan plus|home loan plus|ind home loan plus
+image – contact us :image – contact us|contact us|image 
+welfare of minorities : welfare of minorities|welfare of minor
+fixed deposit : fixed deposit|fd |fixed deposites
+sukanya samriddhi account : sukanya samriddhi|sukanya samriddhi account
+units of image : units of image|units of images
+ca for state /central govt & consular & ind pfms : ca for state govt & consular & ind pfms|ca for central govt & consular & ind pfms
+image – infrastructure : image – infrastructure|infrastructure
+quick contact : quick contact
+debit cards : dc|debit cards
+damodaran committee recommendations : damodaran committee recommendations|committee recommendations
+colombo branch :colombo branch|colombo branches 
+disclaimer : disavowal|disclaimer
+ib home advantage :home advantage|ib home advantage
+financing agriculturists for purchase of tractors & other farm machinery :financing agriculturists|purchase of tractors & other farm machinery
+arogya raksha (only renewal allowed upto 04/06/2023) : arogya raksha
+login procedure for internet banking : login procedure|internet banking
+ib doctor plus :ib doctor plus| doctor plus 
+online shishu mudra loan : online shishu mudra loan|shishu mudra loan
+motor accident claim tribunal deposit(macad) scheme : macad scheme|motor accident claim tribunal deposit scheme
+media speaks : media speaks
+image – email id’s : image – email id’s|email id’s
+education loan – subsidy schemes : education loan|subsidy schemes
+joint liability group (jlg) : jlg|joint liability group
+kisan credit card (kcc) : kcc|kisan credit card
+n r i / foreign exchange :n r i|foreign exchange 
+recurring deposit :rd| recurring deposit
+terms and conditions-term deposit account : terms and conditions-term|deposit account
+corporate governance :cg|corporate governance
+e confirmation of bank guarantee :e confirmation of bank|bank guarantee 
+food and agro processing : food and agro processing
+processing fee on personal segment loan products :personal segment loan products|loan products|personal segment loan 
+ind sampoorna salary package :ind sampoorna salary|salary package 
+annual reports : annual reports
+netc fastag : netc fastag|fastag
+nri plot loan : nri plot loan|plot loan
+ib home suraksha – group insurance scheme for home loan & mortgage borrowers (launch in association with kotak life) :ib home suraksha|scheme for home loan & mortgage borrowers|home suraksha|home suraksha loan
+details of outstanding tier 1 and tier 2 bonds :details of outstanding|tier bonds|tier 1 and tier 2 bonds 
+reverse mortgage : reverse mortgage|reverse mortgage loan
+block lost credit card : block lost credit card|lost credit card
+important terms and conditions – sb : important terms and conditions|terms and conditions
+bhim aadhaar pay :bhim|bhim aadhaar pay 
+ib my own shop :ib my own shop|my own shop
+indsme sanjeevini :indsme sanjeevini|sanjeevini 
+ind netbanking :ind netbanking|netbanking 
+nodal officers- customer service :nodal officers|customer service 
+short term deposits :std|short term deposits 
+centralized pension processing centre : centralized pension|pension processing centre
+ib corp sb – payroll package scheme for salaried class :ib corp sb|payroll package scheme for salaried class|ib corp sb – payroll
+chief vigilance officer : chief vigilance officer
+e payment of direct taxes :direct taxes|e payment of direct taxes 
+bsbda  and small account :small account|bsbda|bsbda  and small account  
+security : certificate|security system|security measures|security department|security measure|security|protection|surety
+ind sme secure : sme secure|ind sme secure|ib sme secure
+banking ombudsman :banking ombudsman|ombudsman 
+regulatory disclosures section :regulatory disclosures|regulatory disclosures section 
+msme :msme 
+online services : online services
+corporate credit :corporate credit 
+variable recurring deposit :vrd|variable recurring deposit 
+e-allahabad bank journey :e-allahabad bank|e-allahabad bank journey 
+what’s new? :news|what’s new? 
+bank’s profile :profile|bank’s profile 
+remittance to india :remittance to india|remittance 
+new sb product for salaried customers   ind salary suraksha :ind salary suraksha|salaried customers|new sb product for salaried customers 
+md & ceo speeches / media interaction :md & ceo speeches|media interaction 
+sb platinum – savings  bank platinum account with  sweep facility :sb platinum – savings|bank platinum account with  sweep facility|bank platinum account 
+awards & accolades :awards & accolades 
+savings bank account for pensioners :savings bank account|pensioners 
+services rendered free of charge :services rendered|services rendered free of charge|free of charge   
+ib gen x – for the vibrant youth :ib gen x|ib gen x – for the vibrant youth 
+important notices to shareholders / bondholders :important notices to shareholders|important notices to bondholders
+ind pashudhan mitra- animal husbandry infrastructure development fund (ahidf) : ahidf|ind pashudhan mitra|animal husbandry infrastructure development fund|
+death claim :death claim 
+ind-gecls-covid-19 :ind-gecls-covid-19|ind-gecls 
+jewel loan :jewel loan|jewel loans 
+online 2w/4w insurance :online 2w/4w insurance|online insurance 
+sb for central / state government / consular offices & ind pfms :sb for central|sb for state government|sb for consular offices & ind pfms
+chief general managers :chief general managers| managers 
+corporate loan :corporate loan|corporate loans 
+multicity cheque facility :multicity cheque facility|multicity cheque|cheque facility 
+another option for pension : another option for pension|option for pension
+image – training philosophy :image – training philosophy|training philosophy 
+newsletter – ind navya :newsletter – ind navya|ind navya |newsletter
+vision and mission :vision and mission|vision|mission
+ib salaam – special account for defence personnel :ib salaam|special account for defence personnel 
+premium current account :pcc|premium current account| 
+resolution framework for covid 19 related stress – for eligible corporate borrowers and msme above rs.25 crore as per rbi guidelines :resolution framework for covid 19|msme above rs.25 crore as per rbi guidelines|for eligible corporate borrowers 
+loan for purchase of “van / minibus / bus / ambulance” to institutions / firms / psu / company / hospitals :loan for purchase of “van / minibus / bus / ambulance”|to institutions / firms / psu / company / hospitals
+how-to videos – internet banking :how-to videos – internet banking|internet banking
+ib – sammaan :ib – sammaan|sammaan|ind– sammaan 
+how-to videos – mobile banking : how-to videos – mobile banking |mobile banking
+positive pay system (pps) :pps|positive pay system 
+online loans : online loans|online loan
+ind jet remit (rtgs) :ind jet remit|ind jet remit (rtgs) 
+ind- krishi infra fund (agriculture infra fund) : ind- krishi infra fund|agriculture infra fund|krishi infra fund
+money multiplier deposits :money multiplier deposits|money multiplier deposit 
+service charges :service charges|service charge 
+best practices code of the bank : best practices code|code of the bank 
+ind-sme e-vaahan :ind-sme e-vaahan|e-vaahan 
+ib digi – online sb account :ib digi|ib digi – online sb account 
+ib smart kid :ib smart kid|smart kid|ind smart kid 
+doorstep banking :doorstep banking 
+loan against lease rentals : loan against lease rentals|lease rentals
+managing director & ceo’s profile :managing director profile|ceo’s profile|md|ceo
+debenture trustee :debenture trustee|debenture 
+sms banking/ missed call service :sms banking|missed call service 
+image – principal’s message :image – principal’s message|principal’s message 
+term loan :term loan 
+ib i-freedom current account :ib i-freedom current account|i-freedom current account 
+ind-surya shakti :ind-surya shakti|surya shakti 
+important contacts :important contacts |contacts  
+ib vidyarthi suraksha (with pnb-metlife) :ib vidyarthi suraksha|vidyarthi suraksha 
+ind msme sakhi :ind msme sakhi|msme sakhi|ib msme sakhi 
+investor / analyst presentation :investor presentation|analyst presentation 
+ib tax saver scheme :ib tax saver scheme|tax saver scheme |ind tax saver scheme|ib tax saver
+zonal offices :zonal offices|zonal office 
+savings bank account :savings bank account|sb account 
+complaints officer :complaints officer 
+national common mobility card (ncmc) :ncmc|national common mobility card 
+ib star agro mills (rice mill, dhal mill, oil mill and flour mill) :ib star agro mills|ib star rice mill|ib star oil mill|ib star flour mill
+image : effigy|picture|ikon|look-alike|double|fancy|range of a function|mental image|trope|simulacrum|see|paradigm|figure of speech|range|figure|icon|persona|visualize|image|prototype|visualise|envision|project|epitome
+sb for students under govt scholarship & sb for dbt :sb for students under govt scholarship |sb for dbt|sb for students 
+principal code compliance officers (bcsbi) :bcsbi|principal code compliance officers
+important terms and conditions – ca :terms and conditions – ca|important terms and conditions – ca 
+ib home loan :ib home loan|home loan|ind home loan 
+online collection products :online collection products|collection products 
+ib home loan combo :ib home loan combo|home loan combo|ind home loan combo 
+shg bank linkage programme – direct linkage to shgs : shg bank linkage programme|direct linkage to shgs
+dividend details :dividend details|dividend  
+gecls extension loans :gecls extension loans|extension loans 
+ib contractors :ib contractors|ib contractor
+nodal officers : nodal officers|nodal officer
+disclosures made to stock exchanges :disclosures|stock exchanges|disclosures made to stock exchanges 
+ib home enrich :ib home enrich|home enrich|ind home enrich 
+head office departments :head office departments|head office| departments 
+ib rera current account :ib rera current account| rera current account|ind rera current account 
+indian bank financial results :indian bank financial|indian bank financial results
+customer centric services :ccs|customer centric services |centric services
+dairy loan :dairy loan 
+kisan credit card (kcc) – animal husbandry and fisheries :kisan credit card|kcc|animal husbandry and fisheries 
+customer complaints / awareness :customer complaints|customer awareness
+jaffna branch :jaffna branch|jaffna branchs 
+indsme arogyam :indsme arogyam 
+od against gold jewels :od against gold jewels 
+restructured accounts :restructured accounts 
+whistle blower policy :whistle blower policy|whistle blower 
+self help group (shg) – shakti :self help group|shg – shakti 
+agricultural jewel loan scheme : agricultural jewel loan scheme|loan scheme
+atm / debit cards :atm|debit cards|debit card 
+corporate social responsiblity :corporate social responsiblity|corporate social responsiblities
+financial inclusion :financial inclusion|financial  
+financial results : financial results|financial 
+ind kisan saur shakthi (pm kusum) :ind kisan saur shakthi| kisan saur shakthi 
+subsidiaries and joint ventures :subsidiaries ventures|joint ventures|subsidiaries and joint ventures 
+working capital :working capital 
+notifications : telling|presentment|notice|apprisal|notification
+right to information act 2005 :information act 2005|right to information act 2005 
+loans : lend|loanword|loans
+image – computer centre :image – computer centre| computer centre 
+indian bank mutual fund :indian bank mutual fund |ib mutual fund| mutual fund   
+nodal officers – banking ombudsman scheme, 2021 : nodal officers|banking ombudsman scheme, 2021
+internet banking : internet banking|online banking|web banking|e banking
+nri home loan :nri home loan
+capital gains sb account :capital gains sb account 
+indoasis:indoasis|mobile app|mobile application
+f.a.qs :f.a.qs 
+interest rates on personal segment loan products : interest rates|personal segment loan products|loan products
+point of sale (pos) : point of sale
+current account :ca|current account 
+ib mahila shakti for women :ib mahila shakti for women|ib mahila shakti
+education loan interest subsidies :education loan interest subsidies|education loan|interest subsidies 
+ib micro :ib micro|ind micro 
+ib –comfort- domestic and nre :ib –comfort- domestic and nre|ib –comfort|domestic and nre 
+agricultural godowns / cold storage :agricultural godowns|cold storage|cold storage loan|agricultural godowns loan|godown loan
+ib tradewell : ib tradewell
+agri clinic and agri business centres : agri clinic and agri business centres|agri clinic|agri business centres

@@ -1,0 +1,753 @@
+<!DOCTYPE >
+<html lang="en"><head>
+        <title>CMS Plus  –  Indian Bank | Your Own Bank :: Financial services company</title>
+        <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0" name="viewport"/>
+        <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+        <meta charset="utf-8"/>
+        <meta content="CMS Plus  –  Indian Bank | Your Own Bank :: Financial services company" property="og:title"/>
+        <meta content="Eligibility All corporates/PSUs (no turnover stipulation) and other entities with annual turnover of Rs.25 crores, having receivables from / payable to different locations. Salient Features A bundle of collection and payment services offered for clients. Other Requirements/Details * Collection services…" property="og:description"/>
+        <meta content="CMS Plus  –  Indian Bank | Your Own Bank :: Financial services company" name="title"/>
+        <meta content="Eligibility All corporates/PSUs (no turnover stipulation) and other entities with annual turnover of Rs.25 crores, having receivables from / payable to different locations. Salient Features A bundle of collection and payment services offered for clients. Other Requirements/Details * Collection services…" name="description"/>
+        <meta content="" property="og:image" type="image/jpeg"/>
+        <meta content="https://www.indianbank.in" property="og:url"/>
+        <meta content="Fz4hG7SqNXz67t3L_mRcVycmJCB65egws1qjhwKb-Ls" name="google-site-verification"/>
+        <meta content="all" name="robots"/>
+        <meta content="#da532c" name="msapplication-TileColor"/>
+        <meta content="#ffffff" name="theme-color"/>
+        <!-- <link rel="stylesheet" id="main-css" type="text/css" href="/wp-content/themes/cyfutureIndianBank/css/bootstrap29112022_ver5_2_3.min.css" media="all"> -->
+        <link href="/wp-content/themes/cyfutureIndianBank/css/style.min.css" id="main-css" media="all" rel="stylesheet" type="text/css"/>
+        <!-- <link rel="stylesheet" id="main-css" type="text/css" href="/wp-content/themes/cyfutureIndianBank/css/style29112022production.min.css" media="all"> -->
+        <link href="//s.w.org" rel="dns-prefetch"/>
+		<script async="" src="https://www.google-analytics.com/analytics.js"></script>
+        <link href="https://indianbank.in/wp-json/" rel="https://api.w.org/"/>
+        <link href="/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+        <link href="/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+        <link href="https://indianbank.in/en/" hreflang="en" rel="alternate"/>
+        <link href="https://indianbank.in/HI/" hreflang="HI" rel="alternate"/>
+        <link href="https://indianbank.in/" hreflang="x-default" rel="alternate"/>
+        <meta content="qTranslate-X 3.4.6.8" name="generator"/>
+        <link href="/wp-content/themes/cyfutureIndianBank/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+        <link href="/wp-content/themes/cyfutureIndianBank/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+        <link href="/wp-content/themes/cyfutureIndianBank/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+        <!-- <link rel="manifest" href="/wp-content/themes/cyfutureIndianBank/site.webmanifest"> -->
+        <link color="#5bbad5" href="/wp-content/themes/cyfutureIndianBank/safari-pinned-tab.svg" rel="mask-icon"/>
+        <link href="/wp-content/themes/cyfutureIndianBank/css/chatbot_widget.min.css" id="main-css" media="all" rel="stylesheet" type="text/css"/>
+    </head>
+    <body class="departments-template-default single single-departments postid-40450 wp-megamenu responsive-menu-slide-left">
+        <div class="main-cover">
+            <!-- <div class="contentLoader" id="contentLoader"></div> -->
+            <div class="header-wraper">
+                                <header class="secondLevelHeader">
+                                    <!-- header Section -->
+                    <div class="container-fluid header-bg">
+                        <div class="container">
+                            <div class="row">
+                                <div class="logo"><a href="https://www.indianbank.in/">
+                                	                                		<img src="/wp-content/themes/cyfutureIndianBank/images/logo.png"/>
+                            		                                </a></div>
+                                <div class="mbsrch"> </div>
+                                <div class="headersearch">
+                                    <form action="/search/" class="search-form" method="post" role="search">
+                                        <div>
+                                        	                                        		<input id="search" name="search" onblur="this.placeholder='Search'" onfocus="this.placeholder=''" placeholder="Search" type="text" value=""/><i class="fa fa-search"></i>
+                                        	                                            
+                                        </div>
+                                    </form>
+                                </div>
+                                <div class="right-section">
+                                    <div class="site-font-size">
+                                        <ul>
+                                            <li>
+                                                                                                    <a class="lang" href="/HI"><img height="19" src="/wp-content/themes/cyfutureIndianBank/images/hindi.png" width="33"/></a>
+                                                                                            </li>
+                                            <li><a class="decrease" href="javascript:void(0)">A-</a></li>
+                                            <li><a class="reset" href="javascript:void(0)">A</a></li>
+                                            <li><a class="increase" href="javascript:void(0)">A+</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="color-picker">
+                                        <ul>
+                                            <li class="orange"></li>
+                                            <li class="blue"></li>
+                                            <li class="yellow"></li>
+                                            <li class="green"></li>
+                                        </ul>
+                                    </div>
+                                    <div class="toll-free">
+                                                                                <img height="29" src="/wp-content/themes/cyfutureIndianBank/images/call-icon.png" width="29"/><span>National Helpline No<strong><a href="tel:180042500000" style="color: #ffffff; text-decoration: none;">1800 425 00 000</a></strong></span>
+                                                                            </div>
+                                    <div class="norton">
+                                    <img height="60" src="/wp-content/themes/cyfutureIndianBank/images/norton.png" width="140"/></div>
+                                </div>
+                            </div>
+                        </div>
+						<!-- <div class="uebt">
+						<a href="https://apps.indianbank.in/cgrc/frm_cust_comp.aspx" style="color: #ffffff; text-decoration: none;">Customer Complaint - Unauthorized Electronic Banking Transaction (UEBT)</a>
+                    </div> -->
+                    </div>
+                    <div class="container-fluid nav-bg">
+                        <div class="container">
+                            <div class="row" style="text-align: center">
+                                <!-- <div class="wsmobileheader clearfix">
+                                    <a id="wsnavtoggle" class="animated-arrow"></a>
+                                </div> -->
+								<nav class="wp-megamenu-wrap" id="wp-megamenu-header_menu"><div class="wpmm-fullwidth-wrap"></div><div class="wpmm-nav-wrap wpmm-main-wrap-header_menu"><a class="wpmm_mobile_menu_btn" href="javascript:;"><i class="fa fa-bars"></i> Menu</a> <ul class="wp-megamenu" id="menu-header_navigation"><li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-463 wpmm_dropdown_menu wpmm-fadeindown wpmm-submenu-right" id="wp-megamenu-item-463"><a href="https://www.indianbank.in/">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-464 wpmm_dropdown_menu wpmm-fadeindown wpmm-submenu-right" id="wp-megamenu-item-464"><a href="#">About us <b class="fa fa-angle-down"></b> </a>
+<ul class="wp-megamenu-sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-3761 wpmm-submenu-right" id="wp-megamenu-item-3761"><a href="https://indianbank.in/departments/banks-profile/">Bank’s Profile</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page wp-megamenu-item-48196 wpmm-submenu-right" id="wp-megamenu-item-48196"><a href="https://indianbank.in/e-allahabad-bank-corner/">e-Allahabad Bank Journey</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-3766 wpmm-submenu-right" id="wp-megamenu-item-3766"><a href="https://indianbank.in/departments/vision-and-mission/">Vision and Mission</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-2940 wpmm-submenu-right" id="wp-megamenu-item-2940"><a href="#">Management</a>
+	<ul class="wp-megamenu-sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-3771 wpmm-submenu-right" id="wp-megamenu-item-3771"><a href="https://indianbank.in/departments/managing-director-ceos-profile/">MD &amp; CEO’s Profile</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-3773 wpmm-submenu-right" id="wp-megamenu-item-3773"><a href="https://indianbank.in/departments/executive-directors-profile/">ED’s Profile</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-3762 wpmm-submenu-right" id="wp-megamenu-item-3762"><a href="https://indianbank.in/departments/board-of-directors/">Board of Directors</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-4037 wpmm-submenu-right" id="wp-megamenu-item-4037"><a href="https://indianbank.in/departments/general-managers/">General Managers</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-39487 wpmm-submenu-right" id="wp-megamenu-item-39487"><a href="https://indianbank.in/departments/cvo/">Chief Vigilance Officer</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-4775 wpmm-submenu-right" id="wp-megamenu-item-4775"><a href="https://indianbank.in/departments/image/">IMAGE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-4772 wpmm-submenu-right" id="wp-megamenu-item-4772"><a href="https://indianbank.in/departments/indian-bank-mutual-fund/">INDIAN BANK MUTUAL FUND</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page wp-megamenu-item-51032 wpmm_dropdown_menu wpmm-fadeindown wpmm-submenu-right" id="wp-megamenu-item-51032"><a href="https://indianbank.in/investors-services-ib/">Investor</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-465 wpmm_dropdown_menu wpmm-fadeindown wpmm-submenu-right" id="wp-megamenu-item-465"><a href="#">Products <b class="fa fa-angle-down"></b> </a>
+<ul class="wp-megamenu-sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-13834 wpmm-submenu-right" id="wp-megamenu-item-13834"><a href="#">Loan products</a>
+	<ul class="wp-megamenu-sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category wp-megamenu-item-473 wpmm-submenu-right" id="wp-megamenu-item-473"><a href="https://indianbank.in/category/loans/agriculture/">Agriculture</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category wp-megamenu-item-475 wpmm-submenu-right" id="wp-megamenu-item-475"><a href="https://indianbank.in/category/loans/groups/">Groups</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category wp-megamenu-item-477 wpmm-submenu-right" id="wp-megamenu-item-477"><a href="https://indianbank.in/category/loans/personal-individual/">Personal/Individual</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-62611 wpmm-submenu-right" id="wp-megamenu-item-62611"><a href="/wp-content/uploads/2021/06/colending-1.pdf">Policy on Co-Lending by Banks &amp; NBFCs to Priority Sector</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category wp-megamenu-item-478 wpmm-submenu-right" id="wp-megamenu-item-478"><a href="https://indianbank.in/category/loans/sme/">MSME</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category wp-megamenu-item-48539 wpmm-submenu-right" id="wp-megamenu-item-48539"><a href="https://indianbank.in/category/loans/corporate/">Corporate</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category wp-megamenu-item-474 wpmm-submenu-right" id="wp-megamenu-item-474"><a href="https://indianbank.in/category/loans/education/">Education</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category wp-megamenu-item-476 wpmm-submenu-right" id="wp-megamenu-item-476"><a href="https://indianbank.in/category/loans/nri/">NRI</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-39435 wpmm-submenu-right" id="wp-megamenu-item-39435"><a href="https://www.psbloansin59minutes.com/indianbank">59 Minutes Loans</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-467 wpmm-submenu-right" id="wp-megamenu-item-467"><a href="#">Deposit products</a>
+	<ul class="wp-megamenu-sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category wp-megamenu-item-719 wpmm-submenu-right" id="wp-megamenu-item-719"><a href="https://indianbank.in/category/savings-bank-a-c/">Savings Bank A/c</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category wp-megamenu-item-13691 wpmm-submenu-right" id="wp-megamenu-item-13691"><a href="https://indianbank.in/category/current-a-c/">Current A/c</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category wp-megamenu-item-720 wpmm-submenu-right" id="wp-megamenu-item-720"><a href="https://indianbank.in/category/term-deposits/">Term Deposits</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category wp-megamenu-item-718 wpmm-submenu-right" id="wp-megamenu-item-718"><a href="https://indianbank.in/category/nri-a-cs/">NRI A/cs</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-43038 wpmm-submenu-right" id="wp-megamenu-item-43038"><a href="#">Digital Products</a>
+	<ul class="wp-megamenu-sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-43674 wpmm-submenu-right" id="wp-megamenu-item-43674"><a href="https://indianbank.in/departments/indoasis/">IndOASIS</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-43673 wpmm-submenu-right" id="wp-megamenu-item-43673"><a href="https://indianbank.in/departments/internet-banking/">Internet banking</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-68953 wpmm-submenu-right" id="wp-megamenu-item-68953"><a href="https://indianbank.qwikcollect.in/QwikCollect/Banks/index.jsp">Ind QwikCollect</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-66000 wpmm-submenu-right" id="wp-megamenu-item-66000"><a href="https://indianbank.in/departments/netc-fastag/">NETC FASTag</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-43041 wpmm-submenu-right" id="wp-megamenu-item-43041"><a href="https://indianbank.in/departments/debit-cards/">Debit Cards</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-43039 wpmm-submenu-right" id="wp-megamenu-item-43039"><a href="https://indianbank.in/departments/credit-card/">Credit Cards</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-45492 wpmm-submenu-right" id="wp-megamenu-item-45492"><a href="https://indianbank.in/departments/sms-banking/">SMS Banking/ Missed Call Service</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-71510 wpmm-submenu-right" id="wp-megamenu-item-71510"><a href="https://ib.cheggout.com/">e – Shopping</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-71509 wpmm-submenu-right" id="wp-megamenu-item-71509"><a href="https://app.fisdom.com/login?referrer=indb">Mutual Funds , IPO , Demat &amp; Trading</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-80036 wpmm-submenu-right" id="wp-megamenu-item-80036"><a href="/wp-content/uploads/2022/11/USSD-SOP.pdf">UPI through USSD</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments menu-item-has-children wp-megamenu-item-65810 wpmm-submenu-right" id="wp-megamenu-item-65810"><a href="https://indianbank.in/departments/merchant-digital-products/">Merchant Digital Products</a>
+	<ul class="wp-megamenu-sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-43672 wpmm-submenu-right" id="wp-megamenu-item-43672"><a href="https://indianbank.in/departments/pos/">Point of Sale (PoS)</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-43764 wpmm-submenu-right" id="wp-megamenu-item-43764"><a href="https://indianbank.in/departments/merchant_upi_qr_code/">Merchant UPI QR Code</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-43821 wpmm-submenu-right" id="wp-megamenu-item-43821"><a href="https://indianbank.in/departments/bhimaadhaarpay/">BHIM Aadhaar Pay</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-43820 wpmm-submenu-right" id="wp-megamenu-item-43820"><a href="https://indianbank.in/departments/online_collection_products/">Online Collection Products</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-47525 wpmm-submenu-right" id="wp-megamenu-item-47525"><a href="#">COVID Products</a>
+	<ul class="wp-megamenu-sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-48464 wpmm-submenu-right" id="wp-megamenu-item-48464"><a href="/departments/covid-re-assessment-of-working-capital">COVID – REASSESSMENT OF WORKING CAPITAL LIMIT</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-47526 wpmm-submenu-right" id="wp-megamenu-item-47526"><a href="https://indianbank.in/departments/ind-covid-emergency-credit-line/">EMERGENCY CREDIT LINE</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-47527 wpmm-submenu-right" id="wp-megamenu-item-47527"><a href="https://indianbank.in/departments/ind-mse-covid-emergency-loan/">IND-MSE COVID EMERGENCY LOAN</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-48917 wpmm-submenu-right" id="wp-megamenu-item-48917"><a href="https://indianbank.in/departments/ind-gecls-covid-19/">IND-GECLS-COVID-19</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-47528 wpmm-submenu-right" id="wp-megamenu-item-47528"><a href="https://indianbank.in/departments/47516/">EMERGENCY SALARY LOAN</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-47529 wpmm-submenu-right" id="wp-megamenu-item-47529"><a href="https://indianbank.in/departments/ind-covid-emergency-pension-loan/">EMERGENCY PENSION LOAN</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-47534 wpmm-submenu-right" id="wp-megamenu-item-47534"><a href="https://indianbank.in/departments/shg-covid-sahaya-loan/">SHG-COVID – SAHAYA LOAN</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category wp-megamenu-item-791 wpmm-submenu-right" id="wp-megamenu-item-791"><a href="https://indianbank.in/category/featured-products-services-schemes/">Featured Products / Services / Schemes</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-469 wpmm_dropdown_menu wpmm-fadeindown wpmm-submenu-right" id="wp-megamenu-item-469"><a href="#">Rates <b class="fa fa-angle-down"></b> </a>
+<ul class="wp-megamenu-sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-40474 wpmm-submenu-right" id="wp-megamenu-item-40474"><a href="https://indianbank.in/departments/deposit-rates/">Deposit Rates</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page wp-megamenu-item-45658 wpmm-submenu-right" id="wp-megamenu-item-45658"><a href="https://indianbank.in/lending-rates/">Lending rates</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page wp-megamenu-item-41103 wpmm-submenu-right" id="wp-megamenu-item-41103"><a href="https://indianbank.in/service-charges-forex-rates/">Service Charges / Forex Rates</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-470 wpmm_dropdown_menu wpmm-fadeindown wpmm-submenu-right" id="wp-megamenu-item-470"><a href="#">News <b class="fa fa-angle-down"></b> </a>
+<ul class="wp-megamenu-sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41611 wpmm-submenu-right" id="wp-megamenu-item-41611"><a href="https://indianbank.in/departments/what-is-new/">What’s New?</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-3785 wpmm-submenu-right" id="wp-megamenu-item-3785"><a href="https://indianbank.in/departments/notifications/">Notifications</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-56048 wpmm-submenu-right" id="wp-megamenu-item-56048"><a href="https://indianbank.in/departments/amalgamation-3/">Amalgamation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-43901 wpmm-submenu-right" id="wp-megamenu-item-43901"><a href="https://indianbank.in/departments/corporate-social-responsiblity/">Corporate Social Responsiblity</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-40890 wpmm-submenu-right" id="wp-megamenu-item-40890"><a href="https://indianbank.in/departments/newsletter/">Newsletter – IND NAVYA</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41612 wpmm-submenu-right" id="wp-megamenu-item-41612"><a href="https://indianbank.in/departments/press-releases/">Press Releases</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-2257 wpmm-submenu-right" id="wp-megamenu-item-2257"><a href="#">Customer Corner</a>
+	<ul class="wp-megamenu-sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-47885 wpmm-submenu-right" id="wp-megamenu-item-47885"><a href="https://apps.indianbank.in/customer_suggestion/ValidateMob.aspx">COVID 19 – Continuing EMI ???</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41666 wpmm-submenu-right" id="wp-megamenu-item-41666"><a href="https://indianbank.in/departments/remit-of-india/">Remittance To India</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2567 wpmm-submenu-right" id="wp-megamenu-item-2567"><a href="/wp-content/uploads/2019/04/AADHAAR-ENROLMENT-FORM-240419.pdf">Aadhaar enrolment/correction form</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2572 wpmm-submenu-right" id="wp-megamenu-item-2572"><a href="https://www.indianbank.in/wp-content/uploads/2018/03/Procedure_safe_dep_locker-1.pdf">Procedure on locker / safe deposit of articles</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2571 wpmm-submenu-right" id="wp-megamenu-item-2571"><a href="https://www.indianbank.in/wp-content/uploads/2018/03/CVMs_Chennai.pdf">Coin Vending Machines CVMs)-Locations in Chennai</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2574 wpmm-submenu-right" id="wp-megamenu-item-2574"><a href="https://www.indianbank.in/wp-content/uploads/2018/03/IBTRD_30082014.pdf">Indian Bank Trust for Rural Development (IBTRD)</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-2258 wpmm-submenu-right" id="wp-megamenu-item-2258"><a href="#">Related Info</a>
+	<ul class="wp-megamenu-sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41502 wpmm-submenu-right" id="wp-megamenu-item-41502"><a href="https://indianbank.in/departments/f-a-qs/">F.A.Qs</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2589 wpmm-submenu-right" id="wp-megamenu-item-2589"><a href="/wp-content/uploads/2018/03/PMJDY_FAQ_2014-2.pdf">FAQs  – On Pradhan Mantri Jan-Dhan Yojana (PMJDY) – Hindi</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2591 wpmm-submenu-right" id="wp-megamenu-item-2591"><a href="/wp-content/uploads/2019/10/RecoveryAgent_IB.pdf">Recovery Agents empanelled/ engagaed by bank (pdf)</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2593 wpmm-submenu-right" id="wp-megamenu-item-2593"><a href="/wp-content/uploads/2018/03/ECSNoticetoCustomers.pdf">ECS Notice to Customers (pdf)</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41501 wpmm-submenu-right" id="wp-megamenu-item-41501"><a href="https://indianbank.in/departments/disclaimer/">Disclaimer</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2598 wpmm-submenu-right" id="wp-megamenu-item-2598"><a href="/wp-content/uploads/2020/01/SECURITY_ALERT_NETBANKING.pdf">Security alert (.pdf)</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41495 wpmm-submenu-right" id="wp-megamenu-item-41495"><a href="https://indianbank.in/departments/downloads/">Downloads – Application Forms</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-2259 wpmm-submenu-right" id="wp-megamenu-item-2259"><a href="#">Codes/Policy/Disclosures</a>
+	<ul class="wp-megamenu-sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-62881 wpmm-submenu-right" id="wp-megamenu-item-62881"><a href="/wp-content/uploads/2021/07/Marketing.pdf">Details of Media Contracts</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-51692 wpmm-submenu-right" id="wp-megamenu-item-51692"><a href="/wp-content/uploads/2020/10/Social-Media-Guidelines-for-Customers.pdf">Policy for Social Media</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2601 wpmm-submenu-right" id="wp-megamenu-item-2601"><a href="http://bcsbi.org.in/pdf/PictorialBookEnglish.pdf">Rights of Bank’s customers</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2603 wpmm-submenu-right" id="wp-megamenu-item-2603"><a href="/wp-content/uploads/2022/09/Policy-on-Cheque-Collection.pdf">Dealing Dishonour of Cheques</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2605 wpmm-submenu-right" id="wp-megamenu-item-2605"><a href="/wp-content/uploads/2019/03/Policy-on-Deposits-2022-23.pdf">Deposit Policy</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41510 wpmm-submenu-right" id="wp-megamenu-item-41510"><a href="https://indianbank.in/departments/best-practices-code-of-the-bank/">Best Practices code of the Bank</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2687 wpmm-submenu-right" id="wp-megamenu-item-2687"><a href="https://www.indianbank.in/wp-content/uploads/2018/09/Code-of-Banks-Commitment-to-Customers-2018.pdf">BCSBI – Codes of Bank’s Commitment to Customers</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2689 wpmm-submenu-right" id="wp-megamenu-item-2689"><a href="https://www.indianbank.in/wp-content/uploads/2018/03/Policyondeterminingmaterialsubsidiary.pdf">Policy on Determining material Subsidiary</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2691 wpmm-submenu-right" id="wp-megamenu-item-2691"><a href="https://www.indianbank.in/wp-content/uploads/2018/03/PolicyonDeterminingMaterialityofEvents.pdf">Policy on Determination and disclosure of Material events/ information</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2693 wpmm-submenu-right" id="wp-megamenu-item-2693"><a href="https://www.indianbank.in/wp-content/uploads/2018/03/RPTPOLICY2015.pdf">Policy on Related Party Transactions</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2695 wpmm-submenu-right" id="wp-megamenu-item-2695"><a href="https://www.indianbank.in/wp-content/uploads/2022/04/Policy-Guidelines-for-Empanelment-of-Valuers.pdf">Policy-Guidelines on Empanelment of Valuers</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2697 wpmm-submenu-right" id="wp-megamenu-item-2697"><a href="/wp-content/uploads/2022/04/POLICY-ON-APPOINT-OF-SBA.pdf">Policy – Appointment of Statutory Branch Auditors</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-54862 wpmm-submenu-right" id="wp-megamenu-item-54862"><a href="/wp-content/uploads/2022/11/POLICY-ON-APPOINTMENT-OF-STATUTORY-CENTRAL-AUDITORS-FOR-2022-23-AND-ONWARDS-FOR-PORTING-ON-WEBSITE.pdf">Policy on appointment of SCA for 2022-23 and onwards</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2699 wpmm-submenu-right" id="wp-megamenu-item-2699"><a href="https://www.indianbank.in/wp-content/uploads/2018/03/drs-sme.pdf">Right to Information act – 2005</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2700 wpmm-submenu-right" id="wp-megamenu-item-2700"><a href="https://www.indianbank.in/wp-content/uploads/2018/03/drs-sme.pdf">Base I-II Disclosures</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41509 wpmm-submenu-right" id="wp-megamenu-item-41509"><a href="https://indianbank.in/departments/customer-centric-services/">Customer Centric Services</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2741 wpmm-submenu-right" id="wp-megamenu-item-2741"><a href="https://www.indianbank.in/wp-content/uploads/2018/03/drs-sme-1.pdf">Debt Restructing Mechanism for SMES</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2743 wpmm-submenu-right" id="wp-megamenu-item-2743"><a href="https://www.indianbank.in/wp-content/uploads/2018/03/FairLendingPracticesCode.pdf">Fair Lending Practices Code</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2744 wpmm-submenu-right" id="wp-megamenu-item-2744"><a href="https://www.indianbank.in/pdfs/info/FairLendingPractice26112010.pdf">Processing Fees/Charges for Loan Products</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2746 wpmm-submenu-right" id="wp-megamenu-item-2746"><a href="https://www.indianbank.in/wp-content/uploads/2018/03/ChargesinAgriTermLoansJLSHGloanJL.pdf">Processing Charges in Agri Term Loans , JL(Ag), SHG Loan &amp; JL(NP)</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2748 wpmm-submenu-right" id="wp-megamenu-item-2748"><a href="https://www.indianbank.in/wp-content/uploads/2018/03/FairlendingPractice_HomePlotVehcileLoan.pdf">Processing Charges of Home/ Plot/ Vehicle etc products</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2750 wpmm-submenu-right" id="wp-megamenu-item-2750"><a href="https://www.indianbank.in/wp-content/uploads/2018/03/FairLendingPractises_MSME.pdf">Processing Charges of SME Products</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2751 wpmm-submenu-right" id="wp-megamenu-item-2751"><a href="http://www.bcsbi.org.in/Codes_Hindi.html">Codes of Bank’s Commitment to Customers/ MSE in Hindi</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2752 wpmm-submenu-right" id="wp-megamenu-item-2752"><a href="http://www.bcsbi.org.in/Codes_RegionalLanguage.html">Codes of Bank’s Commitment to Customers/ MSE</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-62685 wpmm-submenu-right" id="wp-megamenu-item-62685"><a href="/wp-content/uploads/2021/06/PRIVACY-POLICY-for-BAP.pdf">PRIVACY POLICY for  Bhim Aadhaar Pay</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-67979 wpmm-submenu-right" id="wp-megamenu-item-67979"><a href="/wp-content/uploads/2022/01/PRIVACY-POLICY-for-SoftPoS.pdf">Privacy Policy for SoftPoS</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-78316 wpmm-submenu-right" id="wp-megamenu-item-78316"><a href="/wp-content/uploads/2022/09/Policy-on-Safe-deposit-Locker-1.pdf">Policy on Safe deposit Locker</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-2260 wpmm-submenu-right" id="wp-megamenu-item-2260"><a href="#">Charters/Schemes</a>
+	<ul class="wp-megamenu-sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-3390 wpmm-submenu-right" id="wp-megamenu-item-3390"><a href="/wp-content/uploads/2022/08/Reserve-Bank-Integrated-Ombudsman-Scheme-2021.pdf">Banking Ombudsman 2021</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41561 wpmm-submenu-right" id="wp-megamenu-item-41561"><a href="https://indianbank.in/departments/restructured-accounts/">RESTRUCTURED ACCOUNTS</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41560 wpmm-submenu-right" id="wp-megamenu-item-41560"><a href="https://indianbank.in/departments/services-rendered-free-of-charge/">Services rendered free of charge</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41559 wpmm-submenu-right" id="wp-megamenu-item-41559"><a href="https://indianbank.in/departments/welfare-of-minorities/">Welfare of Minorities</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41558 wpmm-submenu-right" id="wp-megamenu-item-41558"><a href="https://indianbank.in/departments/whistle-blower-policy/">Whistle Blower Policy</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41557 wpmm-submenu-right" id="wp-megamenu-item-41557"><a href="https://indianbank.in/departments/centralized-pension-processing-systems/">Centralized Pension Processing Centre</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41556 wpmm-submenu-right" id="wp-megamenu-item-41556"><a href="https://indianbank.in/departments/another-option-for-pension/">Another Option for Pension</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2787 wpmm-submenu-right" id="wp-megamenu-item-2787"><a href="https://www.indianbank.in/wp-content/uploads/2018/03/citizen_charter-1.pdf">CITIZENS’ CHARTER</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2789 wpmm-submenu-right" id="wp-megamenu-item-2789"><a href="https://www.indianbank.in/wp-content/uploads/2018/03/ibmf.pdf">INDIAN BANK MUTUAL FUND</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-14108 wpmm_dropdown_menu wpmm-fadeindown wpmm-submenu-right" id="wp-megamenu-item-14108"><a href="#">Customer Care <b class="fa fa-angle-down"></b> </a>
+<ul class="wp-megamenu-sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-78715 wpmm-submenu-right" id="wp-megamenu-item-78715"><a href="https://apps.indianbank.in/cgrc/frm_cust_comp.aspx">Unauthorized Electronic Banking Transaction (UEBT)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41671 wpmm-submenu-right" id="wp-megamenu-item-41671"><a href="https://indianbank.in/departments/online-customer-complaints/">Customer Complaints</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2534 wpmm-submenu-right" id="wp-megamenu-item-2534"><a href="https://www.indianbank.in/wp-content/uploads/2021/02/complaintForm.pdf">Customer Complaint Form (.pdf)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41670 wpmm-submenu-right" id="wp-megamenu-item-41670"><a href="https://indianbank.in/departments/nodal-officers-banking-ombudsman-scheme-2016/">Nodal Officers – Banking Ombudsman scheme, 2021</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41669 wpmm-submenu-right" id="wp-megamenu-item-41669"><a href="https://indianbank.in/departments/nodal-officers-customer-service/">Nodal Officers- Customer service</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41668 wpmm-submenu-right" id="wp-megamenu-item-41668"><a href="https://indianbank.in/departments/principal-code-compliance-officers-bcsbi/">Principal Code Compliance Officers (BCSBI)</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41667 wpmm-submenu-right" id="wp-megamenu-item-41667"><a href="https://indianbank.in/departments/damodaran-committee-recommendations/">Damodaran Committee Recommendations</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41665 wpmm-submenu-right" id="wp-megamenu-item-41665"><a href="https://indianbank.in/departments/banking-ombudsman/">Banking Ombudsman</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-47884 wpmm-submenu-right" id="wp-megamenu-item-47884"><a href="https://apps.indianbank.in/customer_suggestion/ValidateMob.aspx">COVID 19 – Continuing EMI ???</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-5515 wpmm-submenu-right" id="wp-megamenu-item-5515"><a href="https://indianbank.in/departments/complaints-officers-list/">Complaints Officer</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-43182 wpmm-submenu-right" id="wp-megamenu-item-43182"><a href="https://indianbank.in/departments/death-claim/">Death Claim</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children wp-megamenu-item-472 wpmm_dropdown_menu wpmm-fadeindown wpmm-submenu-right" id="wp-megamenu-item-472"><a href="#">Useful Links <b class="fa fa-angle-down"></b> </a>
+<ul class="wp-megamenu-sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children wp-megamenu-item-13835 wpmm-submenu-right" id="wp-megamenu-item-13835"><a href="#">Services</a>
+	<ul class="wp-megamenu-sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41606 wpmm-submenu-right" id="wp-megamenu-item-41606"><a href="https://indianbank.in/departments/credit-card/">Credit Cards</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category wp-megamenu-item-829 wpmm-submenu-right" id="wp-megamenu-item-829"><a href="https://indianbank.in/category/services/premium-services/">Premium Services</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category wp-megamenu-item-828 wpmm-submenu-right" id="wp-megamenu-item-828"><a href="https://indianbank.in/category/services/insurance-services/">Insurance Services</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments current-menu-item wp-megamenu-item-40461 wpmm-submenu-right" id="wp-megamenu-item-40461"><a href="https://indianbank.in/departments/cms-plus/">CMS Plus</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-44237 wpmm-submenu-right" id="wp-megamenu-item-44237"><a href="https://indianbank.in/departments/doorstep-banking/">Doorstep Banking</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-40459 wpmm-submenu-right" id="wp-megamenu-item-40459"><a href="https://indianbank.in/departments/e-payment-of-direct-taxes/">e Payment of Direct Taxes</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-40460 wpmm-submenu-right" id="wp-megamenu-item-40460"><a href="https://indianbank.in/departments/e-payment-of-indirect-taxes/">e Payment of Indirect Taxes</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-42128 wpmm-submenu-right" id="wp-megamenu-item-42128"><a href="http://indianbank.in/departments/debenture-trustee/#!">Debenture Trustee</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-45478 wpmm-submenu-right" id="wp-megamenu-item-45478"><a href="https://indianbank.in/departments/online-services/">Online Services</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-50513 wpmm-submenu-right" id="wp-megamenu-item-50513"><a href="https://indianbank.in/departments/security/">Security</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-76439 wpmm-submenu-right" id="wp-megamenu-item-76439"><a href="https://indianbank.in/departments/related-sites/">External Sites</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-2438 wpmm-submenu-right" id="wp-megamenu-item-2438"><a href="#">Related Sites</a>
+	<ul class="wp-megamenu-sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-46873 wpmm-submenu-right" id="wp-megamenu-item-46873"><a href="https://www.indianbank.in/departments/rajbhasha/">Rajbhasha</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2870 wpmm-submenu-right" id="wp-megamenu-item-2870"><a href="https://www.indbankonline.com/">Indbank Merchant Banking – Online Share trading</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41580 wpmm-submenu-right" id="wp-megamenu-item-41580"><a href="https://indianbank.in/departments/colombo-branch/">Colombo Branch</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41578 wpmm-submenu-right" id="wp-megamenu-item-41578"><a href="https://indianbank.in/departments/jaffna-branch/">Jaffna Branch</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41581 wpmm-submenu-right" id="wp-megamenu-item-41581"><a href="https://indianbank.in/departments/image/">IMAGE</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-2440 wpmm-submenu-right" id="wp-megamenu-item-2440"><a href="#">National Agencies</a>
+	<ul class="wp-megamenu-sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2502 wpmm-submenu-right" id="wp-megamenu-item-2502"><a href="https://www.rbi.org.in/">Reserve Bank Of India</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2503 wpmm-submenu-right" id="wp-megamenu-item-2503"><a href="http://www.nabard.org/">NABARD</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2504 wpmm-submenu-right" id="wp-megamenu-item-2504"><a href="https://www.dicgc.org.in/">Deposit Insurance &amp; Credit Guarantee  Corp..</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2505 wpmm-submenu-right" id="wp-megamenu-item-2505"><a href="http://www.licindia.in/">Life Insurance Corporation of India</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2506 wpmm-submenu-right" id="wp-megamenu-item-2506"><a href="http://sfacindia.com/">Small Farmers’ Agri-Business Consortium</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2507 wpmm-submenu-right" id="wp-megamenu-item-2507"><a href="https://rbi.org.in/">RBI Monetory Museum Bank Notes and Security Features</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-2441 wpmm-submenu-right" id="wp-megamenu-item-2441"><a href="#">RRBs sponsored by Indian Bank</a>
+	<ul class="wp-megamenu-sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2508 wpmm-submenu-right" id="wp-megamenu-item-2508"><a href="https://www.tamilnadugramabank.com/">Tamil Nadu Grama Bank</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2509 wpmm-submenu-right" id="wp-megamenu-item-2509"><a href="http://www.saptagirigrameenabank.in/">Saptagiri Grameena Bank</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2510 wpmm-submenu-right" id="wp-megamenu-item-2510"><a href="https://www.puduvaibharathiargramabank.in/">Puduvai Bharathiar Grama Bank</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-2442 wpmm-submenu-right" id="wp-megamenu-item-2442"><a href="#">Alliances</a>
+	<ul class="wp-megamenu-sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-2514 wpmm-submenu-right" id="wp-megamenu-item-2514"><a href="https://www.uiic.co.in">United India Insurance Company</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-64027 wpmm-submenu-right" id="wp-megamenu-item-64027"><a href="https://indianbank.in/departments/pps/">Positive Pay System (PPS)</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-65390 wpmm-submenu-right" id="wp-megamenu-item-65390"><a href="https://www.ncwwomenhelpline.in/">Helpline for Women in Distress – 7827170170</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-471 wpmm_dropdown_menu wpmm-fadeindown wpmm-submenu-right" id="wp-megamenu-item-471"><a href="#">Contacts <b class="fa fa-angle-down"></b> </a>
+<ul class="wp-megamenu-sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-66738 wpmm-submenu-right" id="wp-megamenu-item-66738"><a href="https://apps.indianbank.in/lmm/frm_lead_gen_int.aspx">Request a Call Back</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41664 wpmm-submenu-right" id="wp-megamenu-item-41664"><a href="https://indianbank.in/departments/quick-contact/">Quick Contact</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-48254 wpmm-submenu-right" id="wp-megamenu-item-48254"><a href="#">COVID-19 Contacts</a>
+	<ul class="wp-megamenu-sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-48255 wpmm-submenu-right" id="wp-megamenu-item-48255"><a href="/wp-content/uploads/2018/06/MD-hotline.jpg">COVID-19 MSME Products</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-48256 wpmm-submenu-right" id="wp-megamenu-item-48256"><a href="/wp-content/uploads/2018/06/MD-hotline.jpg">COVID Other Products</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children wp-megamenu-item-2235 wpmm-submenu-right" id="wp-megamenu-item-2235"><a href="#">Email IDs</a>
+	<ul class="wp-megamenu-sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41656 wpmm-submenu-right" id="wp-megamenu-item-41656"><a href="https://indianbank.in/departments/department/">Head Office Departments</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41658 wpmm-submenu-right" id="wp-megamenu-item-41658"><a href="https://indianbank.in/departments/image-2/">IMAGE</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41659 wpmm-submenu-right" id="wp-megamenu-item-41659"><a href="https://indianbank.in/departments/foreign-branches/">Foreign Branches</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41662 wpmm-submenu-right" id="wp-megamenu-item-41662"><a href="https://indianbank.in/departments/zonal-offices/">Zonal Offices</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-departments wp-megamenu-item-41663 wpmm-submenu-right" id="wp-megamenu-item-41663"><a href="https://indianbank.in/departments/e-confirmation-of-bank-guarantee/">E Confirmation of Bank Guarantee</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom wp-megamenu-item-54145 wpmm_dropdown_menu wpmm-fadeindown wpmm-submenu-right" id="wp-megamenu-item-54145"><a href="https://www.netbanking.indianbank.in">Net Banking</a></li>
+</ul></div></nav>                            </div>
+                        </div>
+                    </div>
+                </header>
+                				                	<!--  right block section-->
+                	<div class="online-service-wraper">
+                    	                        	<ul class="scroll-point">
+                                <script>
+                                    var button = document.querySelector('form[name="myform"] > button');
+                                    button.addEventListener(function() {
+                                      document.querySelector('form[name="myform"]').submit();
+                                    });
+                                </script>
+                                <li class="wow zoomInUp" data-wow-delay="0.4s"><a href="https://onlinellms.indianbank.in:448/lendperfect/landing" target="_blank"><span class="scroll-point-img"><img class="scrollPointImg2" height="50" src="/wp-content/themes/cyfutureIndianBank/images/image_smudra.png" width="50"/></span><span class="scroll-point-push-content" style="left:57">Shishu Mudra</span></a></li>
+                                <li class="wow zoomInUp" data-wow-delay="0.8s"><a href="https://indianbank.in/departments/digital-lending/">
+                                    <span class="scroll-point-img"><img class="scrollPointImg2" height="50" src="/wp-content/themes/cyfutureIndianBank/images/images.png" width="50"/></span><span class="scroll-point-push-content" style="left:57">Digital Lending</span>
+                                </a></li>
+					<!-- <li class="wow zoomInUp noRight rbi specialForm16Effect" data-wow-delay="0s"><a href="https://www.indianbank.in/departments/rbi-kehta-hain/"><span class="scroll-point-push-content-spl">RBI Kehta Hai</span></a></li> -->
+                                    <!-- <li class="wow zoomInUp noRight" data-wow-delay="0.8s" id="preApprovedLoan"><a id="customerSupport" href="https://llmsuat.indianbank.in/lendperfect/shishucallbackresp/routerLinkCallBack?encparam=W7eSR+5L1bhF6+GM8lVXiLuDcorlLtMPxzNctV7H8T8H0S3pgezLDssX9kShFBjT+L98+V8zceEWlm98UG0="><span class="scroll-point-img"><img class="scrollPointImg8" src= width="32" height="41"></span><span class="scroll-point-push-content">Pre-Approved<br>Loan </span></a></li> -->
+
+									<li class="wow zoomInUp" data-wow-delay="0s"><a href="https://www.indianbank.in/departments/nri-and-forex/"><span class="scroll-point-img"><img class="scrollPointImg1" height="41" src="/wp-content/themes/cyfutureIndianBank/images/NRI%20logo-03.jpg" width="32"/></span><span class="scroll-point-push-content" style="line-height: 16px;">NRI, Trade<br/> &amp; FOREX</span></a></li>
+
+
+                            		<!-- <li class="wow zoomInUp" data-wow-delay="0s"><a href="https://www.indianbank.in/departments/nri-and-forex/"><span class="scroll-point-img"><img class="scrollPointImg1" src= width="36" height="28"></span><span class="">NRI, Trade & FOREX</span></a></li> -->
+
+                            		<!-- <li class="wow zoomInUp noRight specialForm16Effect" data-wow-delay="0.8s" id="preApprovedLoan"><a id="customerSupport" href="https://llmsuat.indianbank.in/lendperfect/shishucallbackresp/routerLinkCallBack?encparam=W7eSR+5L1bhF6+GM8lVXiLuDcorlLtMPxzNctV7H8T8H0S3pgezLDssX9kShFBjT+L98+V8zceEWlm98UG0="><span class="scroll-point-img"><img class="scrollPointImg8" src= width="32" height="41"></span><span class="scroll-point-push-content">Pre-Approved<br>Loan </span></a></li> -->
+
+                          		<!-- <li class="wow zoomInUp" data-wow-delay="0.2s"><a href=""><span class="scroll-point-img"><i class="fa fa-bullhorn" style="font-size: 2.5em;"></i></span><span class="scroll-point-push-content">What's New?</span></a></li> -->
+
+					<li class="wow zoomInUp" data-wow-delay="0.4s"><a href="https://www.indadvantage.com/" target="_blank"><span class="scroll-point-img"><img class="scrollPointImg2" height="50" src="/wp-content/themes/cyfutureIndianBank/images/indbank.png" width="50"/></span><span class="scroll-point-push-content" style="left:57">IndAdvantage</span></a></li>
+
+					<!-- <li class="wow zoomInUp littleForcePush noRight specialForm16Effect" data-wow-delay="0.4s"><a href=""><span class="scroll-point-push-content-spl">e-Allahabad Bank Corner</span></a></li>
+
+								<li class="wow zoomInUp littleForcePush noRight specialForm16Effect" data-wow-delay="0.4s"><a href="/departments/donate-to-pm-cares/"><span class="scroll-point-push-content-spl">PM CARES Fund to deal with 'COVID 19'</span></a></li> -->
+
+
+								<!-- <li class="wow zoomInUp" data-wow-delay="0.4s"><a href="https://indianbank.in/departments/customer-outreach-program/" target="_blank"><span class="scroll-point-img"><img class="scrollPointImg7 specialForm16ImgSize" src=/wp-content/themes/cyfutureIndianBank/images/customerOutReach.png width="45" height="35"></span><span class="scroll-point-push-content specialForm16Content" style="line-height: 1.4; top: 9px; left: 69;">Customer Outreach</span></a></li> -->
+
+
+                            	<!-- <li class="wow zoomInUp littleForcePush" data-wow-delay="0.4s"><a href=""><span class="scroll-point-img scroll-point-push-img"><img class="scrollPointImg3" src= width="32" height="41"></span><span class="scroll-point-push-content">Service Charges / Forex Rates</span></a></li> -->
+                            	<!-- <li class="wow zoomInUp" data-wow-delay="0.6s"><a href=""><span class="scroll-point-img"><img class="scrollPointImg4" src= width="36" height="28"></span><span class="scroll-point-push-content">Credit Card</span></a></li> -->
+			    	<!-- <li class="wow zoomInUp" data-wow-delay="0.8s"><a href=""><span class="scroll-point-img"><img class="scrollPointImg5" src= width="32" height="29"></span><span class="scroll-point-push-content">Debit card</span></a></li> -->
+
+                            	<!-- <li class="wow zoomInUp" data-wow-delay="0.8s"><a href=""><span class="scroll-point-img"><img class="scrollPointImg5" src= width="36" height="28"></span><span class="scroll-point-push-content">Debit card</span></a></li> -->
+                            <li class="wow zoomInUp" data-wow-delay="0.6s"><a href="https://indianbank.in/departments/indoasis/"><span class="scroll-point-img"><img class="scrollPointImg6" height="41" src="/wp-content/themes/cyfutureIndianBank/images/rs-icon.png" width="32"/></span><span class="scroll-point-push-content">IndOASIS</span></a></li>
+								<!-- <li class="wow zoomInUp specialForm16Effect" data-wow-delay="1.2s"><a href="https://neas.gov.in/" target="_blank"><span class="scroll-point-img"><img class="scrollPointImg7 specialForm16ImgSize" src= width="32" height="41"></span><span class="scroll-point-push-content specialForm16Content">NEA 2019</span></a></li> -->
+
+				<li class="wow zoomInUp" data-wow-delay="0.8s"><a href="https://indianbank.in/departments/online-customer-complaints/" id="customerSupport"><span class="scroll-point-img"><img class="scrollPointImg8" height="41" src="/wp-content/themes/cyfutureIndianBank/images/customerSupportLanding.png" width="32"/></span><span class="scroll-point-push-content">Customer<br/>Support </span></a></li>
+
+				<li class="wow zoomInUp" data-wow-delay="1s"><a href="https://indianbank.in/departments/downloads/"><span class="scroll-point-img"><img class="scrollPointImg7" height="41" src="/wp-content/themes/cyfutureIndianBank/images/download-icon.png" width="32"/></span><span class="scroll-point-push-content">Downloads</span></a></li>
+
+                        	</ul>
+                    	                	</div>
+                	<!--<div class="news-wraper">
+                    	                        	<a href="https://www.indadvantage.com/" target=_blank><img src= width="47" height="182" class="news-click"></a>
+                    								<a href="https://www.indadvantage.com/" target=_blank><img src= width="47" height="182" class="news-click"></a>
+                    	                	</div> -->
+                	<div class="financialResultWarp">
+                    	                        	<a href="https://indianbank.in/departments/financial-results-ib/"><img class="fnResultClick" height="220" src="/wp-content/themes/cyfutureIndianBank/images/financialResultIcon.gif" width="47"/></a>
+                    	                	</div>
+                	<div class="service-wraper">
+                    	<div class="service-content">            
+                        	                            	<ul class="serviceLinks">
+                                    <li><a href="https://onlinellms.indianbank.in:448/lendperfect/landing" target="_blank">Shishu Mudra</a></li>
+                                    <li><a href="https://indianbank.in/departments/digital-lending/">Digital Lending</a></li>
+									<li><a href="https://www.indianbank.in/departments/nri-and-forex/">NRI, Trade &amp; FOREX</a></li>
+									<li><a href="https://indianbank.in/departments/what-is-new/">What's New?</a></li>
+									<li><a href="https://www.indadvantage.com/" target="_blank">Ind Advantage</a></li>		
+									<li><a href="https://indianbank.in/departments/indoasis/">IndOASIS</a></li>
+									<li><a href="https://indianbank.in/departments/online-customer-complaints/">Customer Support</a></li>
+									<li><a href="https://indianbank.in/departments/downloads/">Downloads</a></li>
+                                	<!--<li><a href="">Lending rates</a></li>-->
+					<!-- <li><a href="/departments/donate-to-pm-cares/">PM CARES Fund to deal with 'COVID 19'</a></li> -->
+                               		<!-- <li><a href="">Credit Card</a></li> -->
+                                	<!-- <li><a href="">e-Purse</a></li> -->
+    	                        </ul>
+    	                                        	</div>
+                    	<img class="online-service service-click" height="182" src="/wp-content/themes/cyfutureIndianBank/images/service-icon.jpg" width="47"/>
+                	</div>
+				            </div>
+	
+	
+				
+		<div class="container-fluid innerPageTopFix">
+			<div class="inner-banner">
+				<img src="/wp-content/uploads/2018/06/800x600.jpg"/>
+				<div class="innerheading innerBannerHeading">
+        			<h1 class="contentTitle"><span>CMS Plus</span></h1>
+        		</div>
+        		<div class="col-sm-12 innerPageBreadcrumbs">
+					<ul class="breadcrumbs" id="breadcrumbs"><li class="item-home"><a class="bread-link bread-home" href="https://indianbank.in" title="Home">Home</a></li><li class="separator separator-home"> &gt; </li><li class="item-cat item-custom-post-type-departments"><a class="bread-cat bread-custom-post-type-departments" href="https://indianbank.in/departments/" title="Departments">Departments</a></li><li class="separator"> &gt; </li><li class="item-current item-40450"><strong class="bread-current bread-40450" title="CMS Plus">CMS Plus</strong></li></ul>				</div>
+			</div>
+		</div>
+		<!-- <div class="container-fluid">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12 innerPageBreadcrumbs">
+											</div>
+				</div>
+			</div>
+		</div> -->
+			
+		<div class="container-fluid">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3 col-sm-3 randomSideMenu leftSpacing">
+						<div class="contentDetail">
+							<div class="innerSideMenu">
+								
+	<aside class="sidebar widget-area" id="secondary" role="complementary">
+		<div><div class="menu-service_category_menu-container"><ul class="menu" id="menu-service_category_menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13893" id="menu-item-13893"><a href="https://indianbank.in/category/services/premium-services/">Premium Services</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13892" id="menu-item-13892"><a href="https://indianbank.in/category/services/insurance-services/">Insurance Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-departments current-menu-item menu-item-40484" id="menu-item-40484"><a aria-current="page" href="https://indianbank.in/departments/cms-plus/">CMS Plus</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-departments menu-item-44599" id="menu-item-44599"><a href="https://indianbank.in/departments/doorstep-banking/">Doorstep Banking</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-departments menu-item-40482" id="menu-item-40482"><a href="https://indianbank.in/departments/e-payment-of-direct-taxes/">e Payment of Direct Taxes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-departments menu-item-40483" id="menu-item-40483"><a href="https://indianbank.in/departments/e-payment-of-indirect-taxes/">e Payment of Indirect Taxes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-departments menu-item-44600" id="menu-item-44600"><a href="https://indianbank.in/departments/debenture-trustee/">Debenture Trustee</a></li>
+</ul></div></div>	</aside><!-- .sidebar .widget-area -->
+								<!--  -->
+							</div>
+						</div>
+					</div>
+					<div class="col-md-9 col-sm-9 randomContent">
+						<div class="contentDetail">
+							<div class="innerheading">
+								<h1 class="contentTitle wow bounceInRight"><span>CMS Plus</span></h1>
+							</div>
+							<div class="mainContent">
+																	<div class="wow zoomIn">
+										<table bgcolor="#BBD6F2" border="0" cellpadding="6" cellspacing="1" class="bodytext table">
+<tbody>
+<tr>
+<td bgcolor="#F9FCFF" width="200">Eligibility</td>
+<td bgcolor="#F9FCFF">All corporates/PSUs (no turnover stipulation) and other entities with annual turnover of Rs.25 crores, having receivables from / payable to different locations.</td>
+</tr>
+<tr>
+<td bgcolor="#F9FCFF" width="200">Salient Features</td>
+<td bgcolor="#F9FCFF">A bundle of collection and payment services offered for clients.</td>
+</tr>
+<tr>
+<td bgcolor="#F9FCFF" width="200">Other Requirements/Details</td>
+<td bgcolor="#F9FCFF">* Collection services : Local &amp; Outstation cheques, cash, ECS debit, direct debit, Inward RTGS/NEFT, Cash, Cheques, DDs etc. can be deposited in to collection account at any CBS branch.<br/>
+* Payment services : Multicity cheques, RTGS/NEFT/Issuing of bulk DDs, ECS, Dividend Warrant, Interest warrant, Statutory payments like government taxes, etc.<br/>
+* Clear funds are credited on a daily basis to the current account maintained with the branch, where the customer is having account or to any other bank by RTGS/NEFT.<br/>
+* Value added facilities like customized MIS reports, cheque purchase facility, collection of instruments at doorstep, etc.<br/>
+* Online realtime viewing of cheque status, facility for generation of reports, mail box etc.</td>
+</tr>
+</tbody>
+</table>
+									</div>
+																							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		            <div class="lastUpdate text-center">
+								<p>( Last modified on May 17, 2022 at 11:05:36 PM )</p>
+			</div>
+             
+	
+<footer>
+            <div class="container-fluid sub-footer">
+                <div class="container">
+                    <div class="sub-footer-warp subFooterSeprator">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                                                    <h3> Branch &amp; ATM Locator</h3>
+                                                                <form action="https://indianbank.in/branch-atm/" method="post">
+                                    <div class="checkbox-wraper">
+                                                                                    <input checked="checked" name="type" type="radio" value="branch"/><label>Branch</label>
+                                            <input name="type" type="radio" value="atm"/><label required="">ATM</label>
+                                                                            </div>
+                                    <input class="branchAtmValue" name="searchtype" placeholder=" Zip Code or City/District " required="" type="text"/>
+                                    <input name="submit" type="submit" value=" Find "/>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="sub-footer-warp">
+                        <div class="row">
+                            <div class="menu-footer_menu-container"><ul class="footerList" id="menu-footer_menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1043" id="menu-item-1043"><a href="https://apps.indianbank.in/ekyc_otp/">Aadhaar Authentication through OTP</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-departments menu-item-41842" id="menu-item-41842"><a href="https://indianbank.in/departments/block-lost-atm-card/">Block Lost ATM Card</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-departments menu-item-41864" id="menu-item-41864"><a href="https://indianbank.in/departments/right-to-information-act-2005/">Right to Information Act 2005</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1044" id="menu-item-1044"><a href="https://apps.indianbank.in/ibintcer/">Interest Certificate</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39494" id="menu-item-39494"><a href="https://apps.indianbank.in/aadhaarseeding/">Aadhaar Seeding Online</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50670" id="menu-item-50670"><a href="https://apps.indianbank.in/aparlive/">APAR portal</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-departments menu-item-39781" id="menu-item-39781"><a href="https://indianbank.in/departments/msme/">MSME</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1923" id="menu-item-1923"><a href="https://apps.indianbank.in/irb_online/">Apply Online for Home Loan</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-departments menu-item-41832" id="menu-item-41832"><a href="https://indianbank.in/departments/regulatory-disclosures-section/">Regulatory Disclosures Section</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-departments menu-item-41857" id="menu-item-41857"><a href="https://indianbank.in/departments/sukanya-samriddhi-account/">Sukanya Samriddhi Account</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2048" id="menu-item-2048"><a href="https://hrconnect.indianbank.in/">IB Retiree Portal</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-departments menu-item-41871" id="menu-item-41871"><a href="https://indianbank.in/departments/security/">Security</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-departments menu-item-41843" id="menu-item-41843"><a href="https://indianbank.in/departments/block-lost-credit-card/">Block Lost Credit Card</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1045" id="menu-item-1045"><a href="https://staffportal.indianbank.co.in/">IB Staff Portal</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-departments menu-item-42022" id="menu-item-42022"><a href="https://indianbank.in/departments/financial-inclusion/">Financial Inclusion</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1047" id="menu-item-1047"><a href="https://apps.indianbank.in/cgrc/frm_cgrs_cust_welcome.aspx">Complaints Portal</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1048" id="menu-item-1048"><a href="http://ipv6-test.com/validate.php?url=https://www.indianbank.in">IPV6</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-departments menu-item-41859" id="menu-item-41859"><a href="https://indianbank.in/departments/n-r-i-foreign-exchange/">N R I / Foreign Exchange</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-departments menu-item-41511" id="menu-item-41511"><a href="https://indianbank.in/departments/customer-centric-services/">Customer Centric Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-departments menu-item-40481" id="menu-item-40481"><a href="https://indianbank.in/departments/service-charges-page-parti/">Service Charges</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-940" id="menu-item-940"><a href="/wp-content/uploads/2019/04/new-file-for-project-approval-12042019.pdf">Approved Housing Projects</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-941" id="menu-item-941"><a href="https://www.indianbank.in/wp-content/uploads/2018/03/Application_for_Empanelment_of_DSA_HLC.pdf">Empanelment Of DSA/HLC</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5891" id="menu-item-5891"><a href="https://www.indianbankcreditcard.in/indbcreditcustomer/html/">Credit Card Customer Portal</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-departments menu-item-39593" id="menu-item-39593"><a href="https://indianbank.in/departments/debenture-trustee/">Debenture Trustee</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14415" id="menu-item-14415"><a href="https://pledge.cvc.nic.in/">CVC Integrity Pledge</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50720" id="menu-item-50720"><a href="/wp-content/uploads/2020/09/RBI-Floating-Rate-Savings-Bond-2020.pdf">RBI Floating Rate Savings Bond 2020</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42174" id="menu-item-42174"><a href="/wp-content/uploads/2019/04/FREQUENTLY-ASKED-QUESTIONS-UNDER-HOME-LOANS.pdf">FAQ – Home loans</a></li>
+</ul></div>                        </div>
+                    </div>
+                </div>
+            </div>           
+            <div class="container-fluid footer-slide-bg">
+                <div class="container floatWarp">
+                    <div class="row">
+                        <div class="click-arrow"><img class="bounce2" height="17" src="/wp-content/themes/cyfutureIndianBank/images/toggle-pic.png" width="28"/></div>
+                        <div class="col-sm-9 col-xs-12 toggle-item">
+                                                            <ul>
+                                    <li class="grow"><a href="https://indianbank.in/career/"><img height="29" src="/wp-content/themes/cyfutureIndianBank/images/career-icon.png" width="25"/>Career</a></li>
+                                    <li class="grow"><a href="https://indianbank.in/tenders/"><img height="30" src="/wp-content/themes/cyfutureIndianBank/images/tender-icon.png" width="25"/>Tenders / Auction</a></li>
+                                    <li class="grow"><a href="https://indianbank.in/branch-atm/"><img height="25" src="/wp-content/themes/cyfutureIndianBank/images/location-icon.png" width="19"/>Locate Us</a></li> 
+                                    <li class="grow"><a href="https://indianbank.in/departments/awards-accolades/"><img height="28" src="/wp-content/themes/cyfutureIndianBank/images/award-icon.png" width="24"/>Awards</a></li>
+                                   <!-- <li class="grow"><a href=""><img src= width="22" height="23">Downloads</a></li>-->
+                                    <li class="grow"><a href="https://indianbank.in/site-map/"><img height="23" src="/wp-content/themes/cyfutureIndianBank/images/download-icon.png" width="22"/>Site Map</a></li>
+                                    <li class="grow"><a href="https://pledge.cvc.nic.in/"><img height="23" src="/wp-content/themes/cyfutureIndianBank/images/vigilance-icon.png" width="22"/>CVC Integrity Pledge</a></li>
+<li class="grow"><a href="https://mynps.nsdl.com/myNPS/NationalPensionSystem.html?appType=main&amp;authId=UGUvMTNsQW1DNlpKQ0o1QnVBZ1I5Zz09"><img height="25" src="/wp-content/themes/cyfutureIndianBank/images/rs-icon.png" width="19"/>eNPS account opening</a></li>
+                                </ul>
+                                                    </div>
+                        <div class="col-sm-3 col-xs-12 social">
+                            <ul>
+                                <li><a class="splEffect" href="https://www.facebook.com/MyIndianBank" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                <li><a class="splEffect" href="https://twitter.com/myindianbank" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                <li><a class="splEffect" href="https://www.youtube.com/indianbankofficial" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                                <li><a class="splEffect" href="https://www.instagram.com/myIndianbank" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                <li><a class="splEffect" href="https://in.linkedin.com/company/indianbank" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>     
+        </footer>
+
+       <!--############################################# Chat Icon starts ######################################################-->
+     <div class="akamLogo">
+                    <img src="/wp-content/themes/cyfutureIndianBank/images/logoENG.png"/>
+            </div>
+    <!--############################################### Chat Icon ends #######################################################-->
+
+    <!--############################################# Chat Icon starts ######################################################-->
+     <div class="animated-chat tada" id="chat">
+        <img class="chatbot-inner-image" src="/wp-content/themes/cyfutureIndianBank/images/adya-logo_chat_icon.png"/>
+        <div id="chatbox-popup-bottom">
+            <span class="glow chatbox-popup-text">
+                                    <b style="color: #FFFFFF; font-family: 'OpenSans-Regular', sans-serif">Ask ADYA</b>
+                            </span>
+        </div>
+    </div>
+    <!--############################################### Chat Icon ends #######################################################-->
+
+    <!--***********************************************  Chat Box starts *****************************************************-->
+
+    <div class="chatbox" id="chatbox">
+        <div class="close-button-wraper">
+            <div class="close-button-wrapper2">
+                <div class="bot-title-left">
+                    <img src="/wp-content/themes/cyfutureIndianBank/images/adya-logo.png"/>
+                </div>
+            </div>
+            <div class="chatbot-title">
+                <b>ADYA</b>
+                <div id="reload-chat" onclick="reloadChatbox()" title="Restart Chat">↻</div>
+                <div id="close-chat" onclick="closeChatbox()" title="Minimize Chat Window">−</div>
+            </div>
+        </div>
+        <iframe class="chatbot-frame" frameborder="0" id="ibotWindow" sandbox="allow-same-origin allow-scripts allow-forms allow-popups" scrolling="auto" src="https://chatbot.indianbank.in"></iframe>
+    </div>
+    
+    <!--***********************************************  Chat Box ends *****************************************************-->
+
+        <div class="arrowIndicator"><i class="fa fa-angle-up bounce1"></i></div>
+            <form action="" id="myForm" method="post" target="_blank"></form>
+        </div>
+        <button aria-label="Menu" class="responsive-menu-button responsive-menu-boring responsive-menu-accessible" id="responsive-menu-button" type="button">
+    <span class="responsive-menu-box"><span class="responsive-menu-inner"></span>
+    </span></button><div class="slide-left" id="responsive-menu-container">
+    <div id="responsive-menu-wrapper"><ul class="" id="responsive-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-463"><a class="responsive-menu-item-link" href="https://www.indianbank.in/">Home</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-464"><a class="responsive-menu-item-link" href="#">About us<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-1"><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-3761"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/banks-profile/">Bank’s Profile</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" id="responsive-menu-item-48196"><a class="responsive-menu-item-link" href="https://indianbank.in/e-allahabad-bank-corner/">e-Allahabad Bank Journey</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-3766"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/vision-and-mission/">Vision and Mission</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-2940"><a class="responsive-menu-item-link" href="#">Management<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-2"><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-3771"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/managing-director-ceos-profile/">MD &amp; CEO’s Profile</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-3773"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/executive-directors-profile/">ED’s Profile</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-3762"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/board-of-directors/">Board of Directors</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-4037"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/general-managers/">General Managers</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-39487"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/cvo/">Chief Vigilance Officer</a></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-4775"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/image/">IMAGE</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-4772"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/indian-bank-mutual-fund/">INDIAN BANK MUTUAL FUND</a></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" id="responsive-menu-item-51032"><a class="responsive-menu-item-link" href="https://indianbank.in/investors-services-ib/">Investor</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-465"><a class="responsive-menu-item-link" href="#">Products<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-1"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-13834"><a class="responsive-menu-item-link" href="#">Loan products<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-2"><li class="menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item" id="responsive-menu-item-473"><a class="responsive-menu-item-link" href="https://indianbank.in/category/loans/agriculture/">Agriculture</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item" id="responsive-menu-item-475"><a class="responsive-menu-item-link" href="https://indianbank.in/category/loans/groups/">Groups</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item" id="responsive-menu-item-477"><a class="responsive-menu-item-link" href="https://indianbank.in/category/loans/personal-individual/">Personal/Individual</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-62611"><a class="responsive-menu-item-link" href="/wp-content/uploads/2021/06/colending-1.pdf">Policy on Co-Lending by Banks &amp; NBFCs to Priority Sector</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item" id="responsive-menu-item-478"><a class="responsive-menu-item-link" href="https://indianbank.in/category/loans/sme/">MSME</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item" id="responsive-menu-item-48539"><a class="responsive-menu-item-link" href="https://indianbank.in/category/loans/corporate/">Corporate</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item" id="responsive-menu-item-474"><a class="responsive-menu-item-link" href="https://indianbank.in/category/loans/education/">Education</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item" id="responsive-menu-item-476"><a class="responsive-menu-item-link" href="https://indianbank.in/category/loans/nri/">NRI</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-39435"><a class="responsive-menu-item-link" href="https://www.psbloansin59minutes.com/indianbank">59 Minutes Loans</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-467"><a class="responsive-menu-item-link" href="#">Deposit products<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-2"><li class="menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item" id="responsive-menu-item-719"><a class="responsive-menu-item-link" href="https://indianbank.in/category/savings-bank-a-c/">Savings Bank A/c</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item" id="responsive-menu-item-13691"><a class="responsive-menu-item-link" href="https://indianbank.in/category/current-a-c/">Current A/c</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item" id="responsive-menu-item-720"><a class="responsive-menu-item-link" href="https://indianbank.in/category/term-deposits/">Term Deposits</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item" id="responsive-menu-item-718"><a class="responsive-menu-item-link" href="https://indianbank.in/category/nri-a-cs/">NRI A/cs</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-43038"><a class="responsive-menu-item-link" href="#">Digital Products<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-2"><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-43674"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/indoasis/">IndOASIS</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-43673"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/internet-banking/">Internet banking</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-68953"><a class="responsive-menu-item-link" href="https://indianbank.qwikcollect.in/QwikCollect/Banks/index.jsp">Ind QwikCollect</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-66000"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/netc-fastag/">NETC FASTag</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-43041"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/debit-cards/">Debit Cards</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-43039"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/credit-card/">Credit Cards</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-45492"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/sms-banking/">SMS Banking/ Missed Call Service</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-71510"><a class="responsive-menu-item-link" href="https://ib.cheggout.com/">e – Shopping</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-71509"><a class="responsive-menu-item-link" href="https://app.fisdom.com/login?referrer=indb">Mutual Funds , IPO , Demat &amp; Trading</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-80036"><a class="responsive-menu-item-link" href="/wp-content/uploads/2022/11/USSD-SOP.pdf">UPI through USSD</a></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-departments menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-65810"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/merchant-digital-products/">Merchant Digital Products<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-2"><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-43672"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/pos/">Point of Sale (PoS)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-43764"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/merchant_upi_qr_code/">Merchant UPI QR Code</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-43821"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/bhimaadhaarpay/">BHIM Aadhaar Pay</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-43820"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/online_collection_products/">Online Collection Products</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-47525"><a class="responsive-menu-item-link" href="#">COVID Products<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-2"><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-48464"><a class="responsive-menu-item-link" href="/departments/covid-re-assessment-of-working-capital">COVID – REASSESSMENT OF WORKING CAPITAL LIMIT</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-47526"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/ind-covid-emergency-credit-line/">EMERGENCY CREDIT LINE</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-47527"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/ind-mse-covid-emergency-loan/">IND-MSE COVID EMERGENCY LOAN</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-48917"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/ind-gecls-covid-19/">IND-GECLS-COVID-19</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-47528"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/47516/">EMERGENCY SALARY LOAN</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-47529"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/ind-covid-emergency-pension-loan/">EMERGENCY PENSION LOAN</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-47534"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/shg-covid-sahaya-loan/">SHG-COVID – SAHAYA LOAN</a></li></ul></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item" id="responsive-menu-item-791"><a class="responsive-menu-item-link" href="https://indianbank.in/category/featured-products-services-schemes/">Featured Products / Services / Schemes</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-469"><a class="responsive-menu-item-link" href="#">Rates<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-1"><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-40474"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/deposit-rates/">Deposit Rates</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" id="responsive-menu-item-45658"><a class="responsive-menu-item-link" href="https://indianbank.in/lending-rates/">Lending rates</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item" id="responsive-menu-item-41103"><a class="responsive-menu-item-link" href="https://indianbank.in/service-charges-forex-rates/">Service Charges / Forex Rates</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-470"><a class="responsive-menu-item-link" href="#">News<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-1"><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41611"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/what-is-new/">What’s New?</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-3785"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/notifications/">Notifications</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-56048"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/amalgamation-3/">Amalgamation</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-43901"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/corporate-social-responsiblity/">Corporate Social Responsiblity</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-40890"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/newsletter/">Newsletter – IND NAVYA</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41612"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/press-releases/">Press Releases</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-2257"><a class="responsive-menu-item-link" href="#">Customer Corner<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-2"><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-47885"><a class="responsive-menu-item-link" href="https://apps.indianbank.in/customer_suggestion/ValidateMob.aspx">COVID 19 – Continuing EMI ???</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41666"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/remit-of-india/">Remittance To India</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2567"><a class="responsive-menu-item-link" href="/wp-content/uploads/2019/04/AADHAAR-ENROLMENT-FORM-240419.pdf">Aadhaar enrolment/correction form</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2572"><a class="responsive-menu-item-link" href="https://www.indianbank.in/wp-content/uploads/2018/03/Procedure_safe_dep_locker-1.pdf">Procedure on locker / safe deposit of articles</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2571"><a class="responsive-menu-item-link" href="https://www.indianbank.in/wp-content/uploads/2018/03/CVMs_Chennai.pdf">Coin Vending Machines CVMs)-Locations in Chennai</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2574"><a class="responsive-menu-item-link" href="https://www.indianbank.in/wp-content/uploads/2018/03/IBTRD_30082014.pdf">Indian Bank Trust for Rural Development (IBTRD)</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-2258"><a class="responsive-menu-item-link" href="#">Related Info<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-2"><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41502"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/f-a-qs/">F.A.Qs</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2589"><a class="responsive-menu-item-link" href="/wp-content/uploads/2018/03/PMJDY_FAQ_2014-2.pdf">FAQs  – On Pradhan Mantri Jan-Dhan Yojana (PMJDY) – Hindi</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2591"><a class="responsive-menu-item-link" href="/wp-content/uploads/2019/10/RecoveryAgent_IB.pdf">Recovery Agents empanelled/ engagaed by bank (pdf)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2593"><a class="responsive-menu-item-link" href="/wp-content/uploads/2018/03/ECSNoticetoCustomers.pdf">ECS Notice to Customers (pdf)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41501"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/disclaimer/">Disclaimer</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2598"><a class="responsive-menu-item-link" href="/wp-content/uploads/2020/01/SECURITY_ALERT_NETBANKING.pdf">Security alert (.pdf)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41495"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/downloads/">Downloads – Application Forms</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-2259"><a class="responsive-menu-item-link" href="#">Codes/Policy/Disclosures<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-2"><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-62881"><a class="responsive-menu-item-link" href="/wp-content/uploads/2021/07/Marketing.pdf">Details of Media Contracts</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-51692"><a class="responsive-menu-item-link" href="/wp-content/uploads/2020/10/Social-Media-Guidelines-for-Customers.pdf">Policy for Social Media</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2601"><a class="responsive-menu-item-link" href="http://bcsbi.org.in/pdf/PictorialBookEnglish.pdf">Rights of Bank’s customers</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2603"><a class="responsive-menu-item-link" href="/wp-content/uploads/2022/09/Policy-on-Cheque-Collection.pdf">Dealing Dishonour of Cheques</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2605"><a class="responsive-menu-item-link" href="/wp-content/uploads/2019/03/Policy-on-Deposits-2022-23.pdf">Deposit Policy</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41510"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/best-practices-code-of-the-bank/">Best Practices code of the Bank</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2687"><a class="responsive-menu-item-link" href="https://www.indianbank.in/wp-content/uploads/2018/09/Code-of-Banks-Commitment-to-Customers-2018.pdf">BCSBI – Codes of Bank’s Commitment to Customers</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2689"><a class="responsive-menu-item-link" href="https://www.indianbank.in/wp-content/uploads/2018/03/Policyondeterminingmaterialsubsidiary.pdf">Policy on Determining material Subsidiary</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2691"><a class="responsive-menu-item-link" href="https://www.indianbank.in/wp-content/uploads/2018/03/PolicyonDeterminingMaterialityofEvents.pdf">Policy on Determination and disclosure of Material events/ information</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2693"><a class="responsive-menu-item-link" href="https://www.indianbank.in/wp-content/uploads/2018/03/RPTPOLICY2015.pdf">Policy on Related Party Transactions</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2695"><a class="responsive-menu-item-link" href="https://www.indianbank.in/wp-content/uploads/2022/04/Policy-Guidelines-for-Empanelment-of-Valuers.pdf">Policy-Guidelines on Empanelment of Valuers</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2697"><a class="responsive-menu-item-link" href="/wp-content/uploads/2022/04/POLICY-ON-APPOINT-OF-SBA.pdf">Policy – Appointment of Statutory Branch Auditors</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-54862"><a class="responsive-menu-item-link" href="/wp-content/uploads/2022/11/POLICY-ON-APPOINTMENT-OF-STATUTORY-CENTRAL-AUDITORS-FOR-2022-23-AND-ONWARDS-FOR-PORTING-ON-WEBSITE.pdf">Policy on appointment of SCA for 2022-23 and onwards</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2699"><a class="responsive-menu-item-link" href="https://www.indianbank.in/wp-content/uploads/2018/03/drs-sme.pdf">Right to Information act – 2005</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2700"><a class="responsive-menu-item-link" href="https://www.indianbank.in/wp-content/uploads/2018/03/drs-sme.pdf">Base I-II Disclosures</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41509"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/customer-centric-services/">Customer Centric Services</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2741"><a class="responsive-menu-item-link" href="https://www.indianbank.in/wp-content/uploads/2018/03/drs-sme-1.pdf">Debt Restructing Mechanism for SMES</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2743"><a class="responsive-menu-item-link" href="https://www.indianbank.in/wp-content/uploads/2018/03/FairLendingPracticesCode.pdf">Fair Lending Practices Code</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2744"><a class="responsive-menu-item-link" href="https://www.indianbank.in/pdfs/info/FairLendingPractice26112010.pdf">Processing Fees/Charges for Loan Products</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2746"><a class="responsive-menu-item-link" href="https://www.indianbank.in/wp-content/uploads/2018/03/ChargesinAgriTermLoansJLSHGloanJL.pdf">Processing Charges in Agri Term Loans , JL(Ag), SHG Loan &amp; JL(NP)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2748"><a class="responsive-menu-item-link" href="https://www.indianbank.in/wp-content/uploads/2018/03/FairlendingPractice_HomePlotVehcileLoan.pdf">Processing Charges of Home/ Plot/ Vehicle etc products</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2750"><a class="responsive-menu-item-link" href="https://www.indianbank.in/wp-content/uploads/2018/03/FairLendingPractises_MSME.pdf">Processing Charges of SME Products</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2751"><a class="responsive-menu-item-link" href="http://www.bcsbi.org.in/Codes_Hindi.html">Codes of Bank’s Commitment to Customers/ MSE in Hindi</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2752"><a class="responsive-menu-item-link" href="http://www.bcsbi.org.in/Codes_RegionalLanguage.html">Codes of Bank’s Commitment to Customers/ MSE</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-62685"><a class="responsive-menu-item-link" href="/wp-content/uploads/2021/06/PRIVACY-POLICY-for-BAP.pdf">PRIVACY POLICY for  Bhim Aadhaar Pay</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-67979"><a class="responsive-menu-item-link" href="/wp-content/uploads/2022/01/PRIVACY-POLICY-for-SoftPoS.pdf">Privacy Policy for SoftPoS</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-78316"><a class="responsive-menu-item-link" href="/wp-content/uploads/2022/09/Policy-on-Safe-deposit-Locker-1.pdf">Policy on Safe deposit Locker</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-2260"><a class="responsive-menu-item-link" href="#">Charters/Schemes<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-2"><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-3390"><a class="responsive-menu-item-link" href="/wp-content/uploads/2022/08/Reserve-Bank-Integrated-Ombudsman-Scheme-2021.pdf">Banking Ombudsman 2021</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41561"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/restructured-accounts/">RESTRUCTURED ACCOUNTS</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41560"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/services-rendered-free-of-charge/">Services rendered free of charge</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41559"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/welfare-of-minorities/">Welfare of Minorities</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41558"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/whistle-blower-policy/">Whistle Blower Policy</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41557"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/centralized-pension-processing-systems/">Centralized Pension Processing Centre</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41556"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/another-option-for-pension/">Another Option for Pension</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2787"><a class="responsive-menu-item-link" href="https://www.indianbank.in/wp-content/uploads/2018/03/citizen_charter-1.pdf">CITIZENS’ CHARTER</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2789"><a class="responsive-menu-item-link" href="https://www.indianbank.in/wp-content/uploads/2018/03/ibmf.pdf">INDIAN BANK MUTUAL FUND</a></li></ul></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-14108"><a class="responsive-menu-item-link" href="#">Customer Care<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-1"><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-78715"><a class="responsive-menu-item-link" href="https://apps.indianbank.in/cgrc/frm_cust_comp.aspx">Unauthorized Electronic Banking Transaction (UEBT)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41671"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/online-customer-complaints/">Customer Complaints</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2534"><a class="responsive-menu-item-link" href="https://www.indianbank.in/wp-content/uploads/2021/02/complaintForm.pdf">Customer Complaint Form (.pdf)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41670"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/nodal-officers-banking-ombudsman-scheme-2016/">Nodal Officers – Banking Ombudsman scheme, 2021</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41669"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/nodal-officers-customer-service/">Nodal Officers- Customer service</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41668"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/principal-code-compliance-officers-bcsbi/">Principal Code Compliance Officers (BCSBI)</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41667"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/damodaran-committee-recommendations/">Damodaran Committee Recommendations</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41665"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/banking-ombudsman/">Banking Ombudsman</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-47884"><a class="responsive-menu-item-link" href="https://apps.indianbank.in/customer_suggestion/ValidateMob.aspx">COVID 19 – Continuing EMI ???</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-5515"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/complaints-officers-list/">Complaints Officer</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-43182"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/death-claim/">Death Claim</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children responsive-menu-item responsive-menu-item-current-ancestor responsive-menu-item-has-children" id="responsive-menu-item-472"><a class="responsive-menu-item-link" href="#">Useful Links<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-1"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children responsive-menu-item responsive-menu-item-current-ancestor responsive-menu-item-current-parent responsive-menu-item-has-children" id="responsive-menu-item-13835"><a class="responsive-menu-item-link" href="#">Services<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-2"><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41606"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/credit-card/">Credit Cards</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item" id="responsive-menu-item-829"><a class="responsive-menu-item-link" href="https://indianbank.in/category/services/premium-services/">Premium Services</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item" id="responsive-menu-item-828"><a class="responsive-menu-item-link" href="https://indianbank.in/category/services/insurance-services/">Insurance Services</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments current-menu-item responsive-menu-item responsive-menu-current-item" id="responsive-menu-item-40461"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/cms-plus/">CMS Plus</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-44237"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/doorstep-banking/">Doorstep Banking</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-40459"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/e-payment-of-direct-taxes/">e Payment of Direct Taxes</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-40460"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/e-payment-of-indirect-taxes/">e Payment of Indirect Taxes</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-42128"><a class="responsive-menu-item-link" href="http://indianbank.in/departments/debenture-trustee/#!">Debenture Trustee</a></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-45478"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/online-services/">Online Services</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-50513"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/security/">Security</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-76439"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/related-sites/">External Sites</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-2438"><a class="responsive-menu-item-link" href="#">Related Sites<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-2"><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-46873"><a class="responsive-menu-item-link" href="https://www.indianbank.in/departments/rajbhasha/">Rajbhasha</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2870"><a class="responsive-menu-item-link" href="https://www.indbankonline.com/">Indbank Merchant Banking – Online Share trading</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41580"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/colombo-branch/">Colombo Branch</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41578"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/jaffna-branch/">Jaffna Branch</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41581"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/image/">IMAGE</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-2440"><a class="responsive-menu-item-link" href="#">National Agencies<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-2"><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2502"><a class="responsive-menu-item-link" href="https://www.rbi.org.in/">Reserve Bank Of India</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2503"><a class="responsive-menu-item-link" href="http://www.nabard.org/">NABARD</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2504"><a class="responsive-menu-item-link" href="https://www.dicgc.org.in/">Deposit Insurance &amp; Credit Guarantee  Corp..</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2505"><a class="responsive-menu-item-link" href="http://www.licindia.in/">Life Insurance Corporation of India</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2506"><a class="responsive-menu-item-link" href="http://sfacindia.com/">Small Farmers’ Agri-Business Consortium</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2507"><a class="responsive-menu-item-link" href="https://rbi.org.in/">RBI Monetory Museum Bank Notes and Security Features</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-2441"><a class="responsive-menu-item-link" href="#">RRBs sponsored by Indian Bank<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-2"><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2508"><a class="responsive-menu-item-link" href="https://www.tamilnadugramabank.com/">Tamil Nadu Grama Bank</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2509"><a class="responsive-menu-item-link" href="http://www.saptagirigrameenabank.in/">Saptagiri Grameena Bank</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2510"><a class="responsive-menu-item-link" href="https://www.puduvaibharathiargramabank.in/">Puduvai Bharathiar Grama Bank</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-2442"><a class="responsive-menu-item-link" href="#">Alliances<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-2"><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-2514"><a class="responsive-menu-item-link" href="https://www.uiic.co.in">United India Insurance Company</a></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-64027"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/pps/">Positive Pay System (PPS)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-65390"><a class="responsive-menu-item-link" href="https://www.ncwwomenhelpline.in/">Helpline for Women in Distress – 7827170170</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-471"><a class="responsive-menu-item-link" href="#">Contacts<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-1"><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-66738"><a class="responsive-menu-item-link" href="https://apps.indianbank.in/lmm/frm_lead_gen_int.aspx">Request a Call Back</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41664"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/quick-contact/">Quick Contact</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-48254"><a class="responsive-menu-item-link" href="#">COVID-19 Contacts<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-2"><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-48255"><a class="responsive-menu-item-link" href="/wp-content/uploads/2018/06/MD-hotline.jpg">COVID-19 MSME Products</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-48256"><a class="responsive-menu-item-link" href="/wp-content/uploads/2018/06/MD-hotline.jpg">COVID Other Products</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-2235"><a class="responsive-menu-item-link" href="#">Email IDs<div class="responsive-menu-subarrow">▼</div></a><ul class="responsive-menu-submenu responsive-menu-submenu-depth-2"><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41656"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/department/">Head Office Departments</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41658"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/image-2/">IMAGE</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41659"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/foreign-branches/">Foreign Branches</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41662"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/zonal-offices/">Zonal Offices</a></li><li class="menu-item menu-item-type-post_type menu-item-object-departments responsive-menu-item" id="responsive-menu-item-41663"><a class="responsive-menu-item-link" href="https://indianbank.in/departments/e-confirmation-of-bank-guarantee/">E Confirmation of Bank Guarantee</a></li></ul></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-54145"><a class="responsive-menu-item-link" href="https://www.netbanking.indianbank.in">Net Banking</a></li></ul>    </div>
+</div>
+            <!-- <script type="text/javascript">
+                /* (function ($) {
+                    'use strict';
+
+                    $('body').find('.carousel-slider').each(function () {
+                        var _this = $(this);
+                        var autoWidth = _this.data('auto-width');
+                        var stagePadding = parseInt(_this.data('stage-padding'));
+                        stagePadding = stagePadding > 0 ? stagePadding : 0;
+
+                        if (jQuery().owlCarousel) {
+                            _this.owlCarousel({
+                                stagePadding: stagePadding,
+                                nav: _this.data('nav'),
+                                dots: _this.data('dots'),
+                                margin: _this.data('margin'),
+                                loop: _this.data('loop'),
+                                autoplay: _this.data('autoplay'),
+                                autoplayTimeout: _this.data('autoplay-timeout'),
+                                autoplaySpeed: _this.data('autoplay-speed'),
+                                autoplayHoverPause: _this.data('autoplay-hover-pause'),
+                                slideBy: _this.data('slide-by'),
+                                lazyLoad: _this.data('lazy-load'),
+                                autoWidth: autoWidth,
+                                navText: [
+                                    '<svg class="carousel-slider-nav-icon" viewBox="0 0 20 20"><path d="M14 5l-5 5 5 5-1 2-7-7 7-7z"></path></use></svg>',
+                                    '<svg class="carousel-slider-nav-icon" viewBox="0 0 20 20"><path d="M6 15l5-5-5-5 1-2 7 7-7 7z"></path></svg>'
+                                ],
+                                responsive: {
+                                    320: {items: _this.data('colums-mobile')},
+                                    600: {items: _this.data('colums-small-tablet')},
+                                    768: {items: _this.data('colums-tablet')},
+                                    993: {items: _this.data('colums-small-desktop')},
+                                    1200: {items: _this.data('colums-desktop')},
+                                    1921: {items: _this.data('colums')}
+                                }
+                            });
+
+                            if ('hero-banner-slider' === _this.data('slide-type')) {
+                                var animation = _this.data('animation');
+                                if (animation.length) {
+                                    _this.on('change.owl.carousel', function () {
+                                        var sliderContent = _this.find('.carousel-slider-hero__cell__content');
+                                        sliderContent.removeClass('animated' + ' ' + animation).hide();
+                                    });
+                                    _this.on('changed.owl.carousel', function (e) {
+                                        setTimeout(function () {
+                                            var current = $(e.target).find('.carousel-slider-hero__cell__content').eq(e.item.index);
+                                            current.show().addClass('animated' + ' ' + animation);
+                                        }, _this.data('autoplay-speed'));
+                                    });
+                                }
+                            }
+                        }
+
+                        if (jQuery().magnificPopup) {
+                            if (_this.data('slide-type') === 'product-carousel') {
+                                $(this).find('.magnific-popup').magnificPopup({
+                                    type: 'ajax'
+                                });
+                            } else if ('video-carousel' === _this.data('slide-type')) {
+                                $(this).find('.magnific-popup').magnificPopup({
+                                    type: 'iframe'
+                                });
+                            } else {
+                                $(this).find('.magnific-popup').magnificPopup({
+                                    type: 'image',
+                                    gallery: {
+                                        enabled: true
+                                    },
+                                    zoom: {
+                                        enabled: true,
+                                        duration: 300,
+                                        easing: 'ease-in-out'
+                                    }
+                                });
+                            }
+                        }
+                    });
+                })(jQuery); */
+            </script> -->
+				<script src="/wp-content/themes/cyfutureIndianBank/js/jquery.min.js"></script>
+	<script src="/wp-content/themes/cyfutureIndianBank/js/bootstrap29112022_1.min.js"></script>
+	<script src="/wp-content/themes/cyfutureIndianBank/js/jquery-migrate.min.js"></script>
+        <script src="/wp-content/themes/cyfutureIndianBank/js/jquery-ui.min.js"></script>
+        <script src="/wp-content/themes/cyfutureIndianBank/js/waypoints.min.js"></script>
+        <script src="/wp-content/themes/cyfutureIndianBank/js/counterup.min.js"></script>
+        <script src="/wp-content/themes/cyfutureIndianBank/js/wow.min.js"></script>
+        <!-- <script src="/wp-content/themes/cyfutureIndianBank/js/owl.carousel1.js"></script> -->
+        <script src="/wp-content/themes/cyfutureIndianBank/js/owl.carousel.min.js"></script>
+        <script src="/wp-content/plugins/disable-back-button/js/dbb.min.js"></script>
+        <script src="/wp-content/themes/cyfutureIndianBank/js/main.min.js"></script>
+        <script src="/wp-content/themes/cyfutureIndianBank/js/chatbot_widget.min.js"></script>
+<!--        <script src="/wp-content/themes/cyfutureIndianBank/js/bot.js"></script> -->
+<!-- <script type="text/javascript">
+    /*jQuery(document).mouseup(function(e){
+        var container = jQuery(".mbsrch");
+        if (!container.is(e.target) && container.has(e.target).length === 0){
+            jQuery('.headersearch').hide();
+        }else{
+            jQuery('.headersearch').show();
+        }
+    });*/
+
+    /*jQuery(".mbsrch").click(function(){
+        jQuery('.headersearch').toggle();
+    })*/
+
+    /*if(jQuery('.wp-megamenu-sub-menu li').hasClass('menu-item-has-children')){
+    //if(jQuery('#wp-megamenu-item-2940').hasClass('menu-item-has-children')){
+        jQuery('.wp-megamenu-sub-menu .menu-item-has-children a').after('<b class="fa fa-angle-right submenuIndicator"></b>');
+    }*/
+</script> -->
+         <!-- <script type="text/javascript">    
+                /*(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+                ga('create', 'UA-74698432-1', 'auto');
+                ga('send', 'pageview');*/
+            </script> -->
+        
+        
+    
+</body></html>

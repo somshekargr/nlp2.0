@@ -1,0 +1,36 @@
+vykal:vehicle
+car:car
+trectar:tractor
+house:home
+landing:lending
+mails:mills
+inidan:indian
+stap:step
+dore:door
+loon:loan
+wunt:want
+loanskcc:loan
+lone:loan
+coe:ceo
+bonk:bank
+bunk:bank
+vice prez:vice president
+vice press:vice president
+vp:vice president
+ofcourse:of course
+press used:pre used
+incharge:in charge
+dor:door
+dore:door
+loun:loan
+wanna:want
+secutity:security
+accepet:accepted
+pupose:purpose
+vahaan:vaahan
+debits:debit
+lost:loss
+hw:how
+loanem:loan
+storge:storage
+down:godown

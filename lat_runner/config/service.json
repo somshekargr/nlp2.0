@@ -1,0 +1,6 @@
+{
+    "get-site-map" : "https://demo.botaiml.com/dws/get_site_map",
+    "get-html-dumps" : "https://demo.botaiml.com/dws/get_html_dumps",
+    "classify-dump" : "https://demo.botaiml.com/dws/classification",
+    "generate-and-insert" : "https://demo.botaiml.com/dws/insert_documents"
+}

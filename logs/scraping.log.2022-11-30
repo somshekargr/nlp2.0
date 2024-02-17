@@ -1,0 +1,13 @@
+11/30/2022 04:19:53 PM ERROR logger_handler.py(30) this is test
+11/30/2022 04:58:59 PM INFO main.py(58) Retriving sitemap for http://indianbank.in/ and toZip is False 
+11/30/2022 04:59:00 PM INFO get_sites.py(57) Number of url links found 1
+11/30/2022 04:59:00 PM INFO get_sites.py(66) Number of url links found 122
+11/30/2022 04:59:00 PM INFO main.py(70) Sitemap successfully retrived.
+11/30/2022 05:01:29 PM INFO main.py(58) Retriving sitemap for http://indianbank.in/ and toZip is False 
+11/30/2022 05:08:49 PM INFO main.py(58) Retriving sitemap for https://indianbank.in/ and toZip is False 
+11/30/2022 05:09:54 PM INFO get_sites.py(57) Number of url links found 243
+11/30/2022 05:12:10 PM INFO get_sites.py(66) Number of url links found 4180
+11/30/2022 05:12:10 PM INFO main.py(70) Sitemap successfully retrived.
+11/30/2022 05:13:34 PM INFO main.py(82) Retriving html dumps
+11/30/2022 05:16:14 PM INFO generate_report.py(46) Done generating the report
+11/30/2022 05:20:41 PM INFO main.py(94) Filepath : files\\html_dumps\\11_30_2022_17_13_34/document.zip

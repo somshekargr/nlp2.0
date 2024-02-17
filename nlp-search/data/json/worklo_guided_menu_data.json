@@ -1,0 +1,392 @@
+[
+    {
+        "For": "Account Balance",
+        "Target": "workflow",
+        "Id": "123",
+        "Target Name": "Account Balance"
+    },
+    {
+        "For": "Mini Statement",
+        "Target": "workflow",
+        "Id": "ms-121",
+        "Target Name": "Mini Statement"
+    },
+    {
+        "For": "Cheque Book Request",
+        "Target": "workflow",
+        "Id": "cbr-122",
+        "Target Name": "Cheque Book Request"
+    },
+    {
+        "For": "Main Menu",
+        "Target": "menu",
+        "Id": "0",
+        "Target Name": "Guided Menu"
+    },
+    {
+        "For": "Products",
+        "Target": "menu",
+        "Id": "1",
+        "Target Name": "Products"
+    },
+    {
+        "For": "Rates",
+        "Target": "menu",
+        "Id": "32",
+        "Target Name": "Rates"
+    },
+    {
+        "For": "Complaints",
+        "Target": "menu",
+        "Id": "36",
+        "Target Name": "Complaints"
+    },
+    {
+        "For": "Cards",
+        "Target": "menu",
+        "Id": "38",
+        "Target Name": "Cards"
+    },
+    {
+        "For": "Deposit Products",
+        "Target": "menu",
+        "Id": "2",
+        "Target Name": "Deposit Products"
+    },
+    {
+        "For": "Loan Products",
+        "Target": "menu",
+        "Id": "6",
+        "Target Name": "Loan Products"
+    },
+    {
+        "For": "Digital Products",
+        "Target": "menu",
+        "Id": "12",
+        "Target Name": "Deposit Products"
+    },
+    {
+        "For": "Digital Loan Products",
+        "Target": "menu",
+        "Id": "22",
+        "Target Name": "Deposit Loan Products"
+    },
+    {
+        "For": "Merchant Digital Products",
+        "Target": "menu",
+        "Id": "27",
+        "Target Name": "Merchant Digital Products"
+    },
+    {
+        "For": "Digital Lending",
+        "Target": "menu",
+        "Id": "46",
+        "Target Name": "Digital Lending"
+    },
+    {
+        "For": "Savings Bank Account",
+        "Target": "herocard",
+        "Id": "3",
+        "Target Name": "Savings Bank Account"
+    },
+    {
+        "For": "Current Account",
+        "Target": "herocard",
+        "Id": "4",
+        "Target Name": "Current Account"
+    },
+    {
+        "For": "Term Deposit",
+        "Target": "herocard",
+        "Id": "5",
+        "Target Name": "Term Deposit"
+    },
+    {
+        "For": "Retail Loan",
+        "Target": "herocard",
+        "Id": "7",
+        "Target Name": "Retail Loan"
+    },
+    {
+        "For": "MSME Loan",
+        "Target": "menu",
+        "Id": "50",
+        "Target Name": "MSME Loan"
+    },
+    {
+        "For": "Corporate Loan",
+        "Target": "herocard",
+        "Id": "9",
+        "Target Name": "Corporate Loan"
+    },
+    {
+        "For": "Agriculture Loan",
+        "Target": "herocard",
+        "Id": "10",
+        "Target Name": "Agriculture Loan"
+    },
+    {
+        "For": "Education Loan",
+        "Target": "herocard",
+        "Id": "11",
+        "Target Name": "Education Loan"
+    },
+    {
+        "For": "Ind Oasis",
+        "Target": "faqmenu",
+        "Id": "13",
+        "Target Name": "IndOasis"
+    },
+    {
+        "For": "Internet Banking",
+        "Target": "menu",
+        "Id": "14",
+        "Target Name": "Internet Banking"
+    },
+    {
+        "For": "Ind Qwik Collect",
+        "Target": "herocard",
+        "Id": "15",
+        "Target Name": "Ind Qwik Collect"
+    },
+    {
+        "For": "NETC fast tag",
+        "Target": "herocard",
+        "Id": "16",
+        "Target Name": "NETC fast tag"
+    },
+    {
+        "For": "Debit Cards",
+        "Target": "menu",
+        "Id": "39",
+        "Target Name": "Debit Cards"
+    },
+    {
+        "For": "Credit Cards",
+        "Target": "menu",
+        "Id": "43",
+        "Target Name": "Credit Cards"
+    },
+    {
+        "For": "SMS Banking/Missed Call Service",
+        "Target": "herocard",
+        "Id": "19",
+        "Target Name": "SMS Banking/Missed Call Service"
+    },
+    {
+        "For": "E Shopping",
+        "Target": "herocard",
+        "Id": "20",
+        "Target Name": "E Shopping"
+    },
+    {
+        "For": "Mutual Fund,IPO,Demat & Trading",
+        "Target": "herocard",
+        "Id": "21",
+        "Target Name": "Mutual Fund,IPO,Demat & Trading"
+    },
+    {
+        "For": "Features of Internet Banking",
+        "Target": "faqmenu",
+        "Id": "63",
+        "Target Name": "Features of Internet Banking"
+    },
+    {
+        "For": "Internet Banking FAQs",
+        "Target": "faqmenu",
+        "Id": "64",
+        "Target Name": "Internet Banking FAQs"
+    },
+    {
+        "For": "Kisan Credit Card (KCC)",
+        "Target": "herocard",
+        "Id": "23",
+        "Target Name": "Kisan Credit Card (KCC)"
+    },
+    {
+        "For": "Online Shishu MUDRA Loan",
+        "Target": "faqmenu",
+        "Id": "24",
+        "Target Name": "Online Shishu MUDRA Loan"
+    },
+    {
+        "For": "Online OD Against Deposit",
+        "Target": "faqmenu",
+        "Id": "25",
+        "Target Name": "Online OD Against Deposit"
+    },
+    {
+        "For": "Pre-Approved Personal Loan",
+        "Target": "herocard",
+        "Id": "26",
+        "Target Name": "Pre-Approved Personal Loan"
+    },
+    {
+        "For": "Point of Sale (Pos)",
+        "Target": "herocard",
+        "Id": "28",
+        "Target Name": "Point of Sale (Pos)"
+    },
+    {
+        "For": "Merchant UPI QR Code",
+        "Target": "herocard",
+        "Id": "29",
+        "Target Name": "Merchant UPI QR Code"
+    },
+    {
+        "For": "Bhim Aadhar Pay",
+        "Target": "herocard",
+        "Id": "30",
+        "Target Name": "Bhim Aadhar Pay"
+    },
+    {
+        "For": "Online Collection Products",
+        "Target": "herocard",
+        "Id": "31",
+        "Target Name": "Online Collection Products"
+    },
+    {
+        "For": "Deposit Interest Rates",
+        "Target": "herocard",
+        "Id": "33",
+        "Target Name": "Deposit Interest Rates"
+    },
+    {
+        "For": "Lending Interest Rates",
+        "Target": "herocard",
+        "Id": "34",
+        "Target Name": "Lending Interest Rates"
+    },
+    {
+        "For": "Service Charges/Forex Rates",
+        "Target": "herocard",
+        "Id": "35",
+        "Target Name": "Service Charges/Forex Rates"
+    },
+    {
+        "For": "Centralized Grievance Redressal System",
+        "Target": "herocard",
+        "Id": "37",
+        "Target Name": "Centralized Grievance Redressal System"
+    },
+    {
+        "For": "Types of Card",
+        "Target": "herocard",
+        "Id": "40",
+        "Target Name": "Types of Card"
+    },
+    {
+        "For": "Apply Loan",
+        "Target": "herocard",
+        "Id": "41",
+        "Target Name": "Apply Loan"
+    },
+    {
+        "For": "Block Lost Credit Card",
+        "Target": "herocard",
+        "Id": "42",
+        "Target Name": "Block Lost Credit Card"
+    },
+    {
+        "For": "Debit Cards Variants",
+        "Target": "herocard",
+        "Id": "44",
+        "Target Name": "Debit Cards Variants"
+    },
+    {
+        "For": "Block Lost ATM Card",
+        "Target": "herocard",
+        "Id": "45",
+        "Target Name": "Block Lost ATM Card"
+    },
+    {
+        "For": "IND DIGI Agri Jewel Loan",
+        "Target": "faqmenu",
+        "Id": "47",
+        "Target Name": "IND DIGI Agri Jewel Loan"
+    },
+    {
+        "For": "IND DIGI KCC Loan",
+        "Target": "faqmenu",
+        "Id": "48",
+        "Target Name": "IND DIGI KCC Loan"
+    },
+    {
+        "For": "KCC Digital Renewal",
+        "Target": "faqmenu",
+        "Id": "49",
+        "Target Name": "KCC Digital Renewal"
+    },
+    {
+        "For": "IB Tradewell",
+        "Target": "faqmenu",
+        "Id": "51",
+        "Target Name": "IB Tradewell"
+    },
+    {
+        "For": "IB SME Secure",
+        "Target": "faqmenu",
+        "Id": "52",
+        "Target Name": "IB SME Secure"
+    },
+    {
+        "For": "IB Micro",
+        "Target": "faqmenu",
+        "Id": "53",
+        "Target Name": "IB Micro"
+    },
+    {
+        "For": "IB IND-SME E-VAAHAN",
+        "Target": "faqmenu",
+        "Id": "54",
+        "Target Name": "IB IND-SME E-VAAHAN"
+    },
+    {
+        "For": "IB MY OWN SHOP",
+        "Target": "faqmenu",
+        "Id": "55",
+        "Target Name": "IB MY OWN SHOP"
+    },
+    {
+        "For": "IB Doctor Plus",
+        "Target": "faqmenu",
+        "Id": "56",
+        "Target Name": "IB Doctor Plus"
+    },
+    {
+        "For": "IND MSME VEHICLE",
+        "Target": "faqmenu",
+        "Id": "57",
+        "Target Name": "IND MSME VEHICLE"
+    },
+    {
+        "For": "IND-SME EASE",
+        "Target": "faqmenu",
+        "Id": "58",
+        "Target Name": "IND-SME EASE"
+    },
+    {
+        "For": "IND-SURYA SHAKTI",
+        "Target": "faqmenu",
+        "Id": "59",
+        "Target Name": "IND-SURYA SHAKTI"
+    },
+    {
+        "For": "INDSME Sanjeevini",
+        "Target": "faqmenu",
+        "Id": "60",
+        "Target Name": "INDSME Sanjeevini"
+    },
+    {
+        "For": "INDSME Arogyam",
+        "Target": "faqmenu",
+        "Id": "61",
+        "Target Name": "INDSME Arogyam"
+    },
+    {
+        "For": "IB CONTRACTORS",
+        "Target": "faqmenu",
+        "Id": "62",
+        "Target Name": "IB CONTRACTORS"
+    }
+]

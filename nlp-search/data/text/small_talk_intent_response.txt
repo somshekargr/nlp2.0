@@ -1,0 +1,15 @@
+capabilities_intent:I can provide information about various Indian Bank products and assist you with a few key banking transactions.
+greeting_intent:Hi,this is Adya. What can I do for you?
+profanity_intent:Well, thats not nice to hear. Please note, I am working towards getting better everyday to meet your expectations.I hope to give you a better experience next time.
+good_evening_intent:Good Evening. How may I help you today?
+good_afternoon_intent:Good Afternoon. How may I help you today?
+chitchat_intent:I am doing great!! Hope you are doing fine too. How may I help you today?
+bot_complaint_intent:Thanks for your feedback, it's important to me. I strive to keep getting better everyday.I shall try to make your experience more pleasant next time.
+bye_intent:Thanks for using the services. Hope you had a good experience. See you soon!
+question_intent:Please type your query in the chatbox. I'll be happy to assist you.
+compliment_intent:Thanks for the compliment!! Your feedback is important to me.
+thanks_intent:You are most welcome. Glad you liked the services and I was able to help you. Please visit again
+age_intent:I am relatively young. But I am wise beyond my years.
+boss_intent:The IT Department. But I am always at your beck and call to serve you.
+adya_intent:Hi!!! I am Adya, Automated Dost for Your Assistance. Tell me your queries!
+good_morning_intent:Good Morning. How may I help you today?

@@ -1,0 +1,6 @@
+autocorrect==2.6.1
+elasticsearch==8.7.0
+fastapi==0.95.2
+nltk==3.7
+numpy==1.22.2
+uvicorn==0.22.0

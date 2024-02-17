@@ -1,0 +1,65 @@
+Account Balance:account balance|acc bal|balance in my account|a/c bal|a c bal|ac balance|balance
+Mini Statement:mini statement|mini
+Cheque Book Request:cheque book request|chq book req|cheque book
+Main Menu:main menu|menu
+Products:products
+Rates:rates
+Complaints:complaints
+Cards:cards
+Deposit Products:deposit products
+Loan Products:loan products
+Digital Products:digital products
+Digital Loan Products:digital loan products
+Merchant Digital Products:merchant digital products
+Digital Lending:digital lending
+Savings Bank Account:savings bank account
+Current Account:current account
+Term Deposit:term deposit
+Retail Loan:retail loan
+MSME Loan:msme loan
+Corporate Loan:corporate loan
+Agriculture Loan:agriculture loan
+Education Loan:education loan
+Ind Oasis:ind oasis
+Internet Banking:internet banking
+Ind Qwik Collect:ind qwik collect
+NETC fast tag:netc fast tag
+Debit Cards:debit cards
+Credit Cards:credit cards
+SMS Banking/Missed Call Service:sms banking/missed call service
+E Shopping:e shopping
+Mutual Fund,IPO,Demat & Trading:mutual fund,ipo,demat & trading
+Features of Internet Banking:features of internet banking
+Internet Banking FAQs:internet banking faqs
+Kisan Credit Card (KCC):kisan credit card (kcc)
+Online Shishu MUDRA Loan:online shishu mudra loan
+Online OD Against Deposit:online od against deposit
+Pre-Approved Personal Loan:pre-approved personal loan
+Point of Sale (Pos):point of sale (pos)
+Merchant UPI QR Code:merchant upi qr code
+Bhim Aadhar Pay:bhim aadhar pay
+Online Collection Products:online collection products
+Deposit Interest Rates:deposit interest rates
+Lending Interest Rates:lending interest rates
+Service Charges/Forex Rates:service charges/forex rates
+Centralized Grievance Redressal System:centralized grievance redressal system
+Types of Card:types of card
+Apply Loan:apply loan
+Block Lost Credit Card:block lost credit card
+Debit Cards Variants:debit cards variants
+Block Lost ATM Card:block lost atm card
+IND DIGI Agri Jewel Loan:ind digi agri jewel loan
+IND DIGI KCC Loan:ind digi kcc loan
+KCC Digital Renewal:kcc digital renewal
+IB Tradewell:ib tradewell
+IB SME Secure:ib sme secure
+IB Micro:ib micro
+IB IND-SME E-VAAHAN:ib ind-sme e-vaahan
+IB MY OWN SHOP:ib my own shop
+IB Doctor Plus:ib doctor plus
+IND MSME VEHICLE:ind msme vehicle
+IND-SME EASE:ind-sme ease
+IND-SURYA SHAKTI:ind-surya shakti
+INDSME Sanjeevini:indsme sanjeevini
+INDSME Arogyam:indsme arogyam
+IB CONTRACTORS:ib contractors

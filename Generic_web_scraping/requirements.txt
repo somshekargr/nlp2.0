@@ -1,0 +1,8 @@
+uvicorn
+fastapi
+beautifulsoup4==4.9.3
+pydantic
+aiofiles
+bs4
+html5lib
+requests
